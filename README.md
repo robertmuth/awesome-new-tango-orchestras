@@ -82,21 +82,21 @@ Combo, Conjunto, Cuarteto, El, Ensemble, La, Los, Orquesta, Quinteto, Sexteto, T
 
 **R**
 
-- [Los Reyes del Tango](#)
-- [Romantica Milonguera](#)
-- [Cuarteto Rotterdam](#)
+- [Los Reyes del Tango](#los-reyes-del-tango)
+- [Romantica Milonguera](#romantica-milonguera)
+- [Cuarteto Rotterdam](#cuarteto-rotterdam)
 
 **S**
 
-- [Orquesta Típica San Juan](#)
-- [Orquesta Típica Sans Souci](#)
-- [La Santa Calavera](#)
-- [Sentimental y Canyengue](#)
-- [Orquesta Silbando](#)
-- [Silencio Tango Orchestra](#)
-- [Solo Tango](#)
-- [Cuarteto Soltango](#)
-- [Sonder Tango](#)
+- [Orquesta Típica San Juan](#orquesta-típica-san-juan)
+- [Orquesta Típica Sans Souci](#orquesta-típica-sans-souci)
+- [La Santa Calavera](#la-santa-calavera)
+- [Sentimental y Canyengue](#sentimental-y-canyengue)
+- [Orquesta Silbando](#orquesta-silbando)
+- [Silencio Tango Orchestra](#silencio-tango-orchestra)
+- [Solo Tango](#solo-tango)
+- [Cuarteto Soltango](#cuarteto-soltango)
+- [Sonder Tango](#sonder-tango)
 
 **T**
 
