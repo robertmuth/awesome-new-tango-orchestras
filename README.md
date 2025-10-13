@@ -3,10 +3,10 @@
 A collection of Tango Orchestras that had new releases after 
 the year 2000, play music not too far away from the golden era style and cater to dancers.
 
-### Directory 
+## Directory 
 
 Sort order is alphabetical after dropping all words like:
-Combo, Conjunto, Cuarteto, El, Ensemble, La, Los, Orquesta, Quinteto, Sexteto, Típica, etc. 
+Combo, Conjunto, Cuarteto, El, Ensemble, La, Los, Orquesta, Quinteto, Sexteto, The, Típica, Trio, etc. 
 
 **A**
 
@@ -46,20 +46,48 @@ Combo, Conjunto, Cuarteto, El, Ensemble, La, Los, Orquesta, Quinteto, Sexteto, T
 
 **J**
 - [Javier Fioramonti]
-  
-#### Not yet summarized (pull requests welcome)
+
+**M**
+**N**
+
+**P**
+**Q**
+
+## Orchestras that did not quite pass the recent release filter
+
+
+- The New York Tango Trio
+  https://open.spotify.com/artist/20kdACzL89CQTl4hopeCup
+- Nuevo Quinteto Real (Horacio Salgan)
+- Quinteto Real (Horacio Salgan)
+- Los Solistas de D' Arienzo
+- Quinteto Francisco Canaro (Antonio D'Alessandro)
+  https://open.spotify.com/artist/08oVNPaNvcdlzLUxAXfOeY
+
+## Orchestras that did not quite pass the golden era style filter
+
+- Melingo
+- Bailongo!
+- Bajo Fondo
+- Gotan Project
+- Otros Aires
+- San Telmo Lounge
+- Tanghetto
+- Tango Project
+- Tango Jointz
+  https://open.spotify.com/artist/0yRtf6rV52WnxpCnDFG8En
+
+
+### Not yet summarized (pull requests welcome)
 
 - Sandra Rehder (dancable?)
 - Gidon Kremer (dancable?)
 - Típica Messiez
 - Los Milonguitas
 - Neotango
-- Nuevo Quinteto Real (Horacio Salgan, may not have a recent release)
 - Los Muchachos De Antes
 - Cuarteto Mulenga
-- The New York Tango Trio
 - Sexteto Obsesión Tango
-- Trio Pantango
 - Diego Schissi
 - Underfloor
 - Bassa (Berlin?)
@@ -67,17 +95,12 @@ Combo, Conjunto, Cuarteto, El, Ensemble, La, Los, Orquesta, Quinteto, Sexteto, T
 - Dúo Fuertes Varnerín
 - Cuarteto Almagro
 - Schwenkglenks y los gringos del tango
-- Melingo
 - Rascasuelos
 - Pequeños Gigantes del Tango 
 - Quinteto Negro La Boca
-- Tango Jointz
-- Quinteto Real (Horacio Salgan, may not have a recent release)
-- Los Reyes del Tango
-- Los Solistas de D' Arienzo (may not have a recent release)
 - Combo Tango
 - Rogue Tango (https://scottmateo.com/rogue-tango/)
-
+- The Tango Group
 
 
 ## Amores Tangos
@@ -91,7 +114,7 @@ Amores was founded in 2008 as a meeting of musicians and friends who, after play
 ## Analia Goldberg
 (Argentina)
 
-*needs more reasearch*
+*TODO: needs more reasearch*
 
 - https://www.facebook.com/analia.goldberg.7/
 - https://analiagoldberg.bandcamp.com/album/analia-goldberg
@@ -174,7 +197,7 @@ Teniendo la esencia de las grandes orquestas de siempre y llevando al corazón d
 AYAHUASCA TANGO es un proyecto que nace en Madrid a finales de 2010. AYAHUASCA, la planta sagrada de los chamanes, es la conexión del yo con su verdadera esencia.
 TANGO, la danza argentina por excelencia, es la conexión de lo masculino y lo femenino, el abrazo de los opuestos del que
 
-- https://ayahuascatango.bandcamp.com/
+- https://ayahuascatango.bandcamp.com/ https://www.tangospleen.com/
 
 ## Bandonegro 
 
@@ -351,15 +374,6 @@ and most recently enjoyed its third run on Broadway
 - https://open.spotify.com/artist/0ELSlay7kDrWGVxVUOfrLD
 - https://play.qobuz.com/artist/16686858
 
-## Quinteto Francisco Canaro
-
-Con la dirección musical de Antonio D'Alessandro (may not have recent releases)
- 
-*Needs more research*
-
-- https://open.spotify.com/artist/08oVNPaNvcdlzLUxAXfOeY
-- https://soundcloud.com/quintetofranciscocanaro
-
 ## Trio Garufa
 
 Trio Garufa is an international ensemble dedicated to performing authentic Argentine music. 
@@ -463,6 +477,15 @@ tangos clásicos, tangos nuevos, valses, milongas, milongas - candombe y folclor
 - https://www.youtube.com/channel/UCOQYElsfAColqCyscG7L9tQ?view_as=subscriber
 - https://open.spotify.com/artist/0UFC4msCQKBeYGdwD7nUkr
 
+
+
+## Trio Pantango
+(Argentina)
+
+*needs more research*
+
+- https://open.spotify.com/artist/6HSAkTcIxONn1hAVKQqcH4
+
 ## Orquesta Típica Pichuco
 (Argentina)
 
@@ -495,6 +518,15 @@ Powered by passion, they are connecting the world one tango at a time.
 - https://www.quintango.com/
 - https://www.youtube.com/@QuinTango
 - https://open.spotify.com/artist/3bp7MrcE5aBmWNCo8NlwdP
+
+## Los Reyes del Tango
+(Argentina)
+
+An orchestra of tango veterans. Most of them were born in the 1930's and played in famous tango 
+orchestras of the 1950's.
+
+- https://play.qobuz.com/artist/4162168
+- https://open.spotify.com/artist/2RLkYpf2Crd4uGcCpS2UuD
 
 ## Romantica Milonguera 
 (Argentina)
@@ -636,6 +668,133 @@ often sharing the stage with renowned tango dancers.
 - https://open.spotify.com/artist/27MBaWe61GOM2f4YSMvWVc
   
 
+
+## TangoEsta 
+(Turkey)
+
+TangEsta (aka Tangueros de Estambul) is a typical tango orchestra that plays tangos mostly 
+from the Golden Era of Argentinian Tango in their original styles. 
+The band which is founded in the late 2012 by Ortaç AYDINOĞLU in Istanbul/Turkey had a long preparation 
+period to explore the musical essence and the differences between styles in tango. 
+The members who were already professional musicians have become tango musicians during this period and thus 
+the band became a professional tango orchestra that is able to play different styles.
+
+- https://www.tangesta.com/about-us/
+- https://www.youtube.com/channel/UCIP8MzjXEwMZ2GPexDCPQ8A
+- https://www.facebook.com/Tangesta
+
+## Tango No. 9 
+(USA)
+
+Tango No. 9 explores tango music in all its myriad manifestations — traditional dance music, 
+vocal ballads, tango nuevo, and more recent compositions — bringing an idiosyncratic twist to each. 
+The trio of instruments — violin, piano, and trombone — may seem a far cry from the more traditional orquesta tipica, 
+but the group’s ingenious arrangements capture a much larger sound, while the unorthodox brass instrument adds a new dimension to the mix. 
+The group rebuilds old warhorses like "La Cumparsita" and "El Choclo", and also digs deep into 
+the more obscure nooks and crannies of the tango repertoire to unearth some rare gems. 
+Tenor Zoltan DiBartolo mixes operatic training with a natural theatricality and a pop sensibility honed in the trenches of late-night warehouse parties and applies it to the most romantic and heart-breaking songs the world has ever known.
+
+- https://music.youtube.com/channel/UCB34FSx1Qq3v_7N95quPG1g
+- https://open.spotify.com/artist/6Zx5n0HlCb4gnhqvdiv3fW
+- https://play.qobuz.com/artist/6922895
+
+## Tangata Quintet
+(Polish)
+
+*TODO: needs more research*
+
+- https://www.facebook.com/tangata.quintet/
+- https://open.spotify.com/artist/5yKXtTsYNUpidzJ0YaS0bs
+
+## Tango Bardo 
+(Argentina)
+
+Formado en el año 2014, participo en el musical  "Chantecler" , donde se presentaron en Paris, Tokio y en la calle Corrientes en Buenos Aires , en los teatros Alvear, Opera y Astral. 
+Como cuarteto milonguero debutaron en La Viruta, y rápidamente se volvio una de las orquestas favoritas del ambiente. A su vez empezaron a recorrer milongas en el interior de Argentina,  Uruguay, Chile y Brasil. 
+Formaron parte de las compañias de Tango de Mora Godoy, Tango Legends y Tango Desire con las cuales recorrieron China , Tailandia, Singapur, Francia, Japon, Uruguay, Chile, España.
+Realizaron giras a Latinoamerica, Europa, Asia , Australia.
+Cuenta con mucaqs versiones bailadas por varios  campeones mundiales de Tango. Producido y dirigido por el violinista Lucas Furno. 
+
+- https://tangobardo.bandcamp.com/
+- https://www.youtube.com/channel/UCjERSMaGmeL5Dho21SSfkoA
+- https://www.facebook.com/tangobardo
+
+
+## Tango Extremo 
+(Netherlands)
+
+Tango Extremo brings a distinctive flavour to the passion and persuasion of the Argentine tango. Since its inception in 2003, the ensemble has made remarkable development, making a big impression on both the Dutch as well as the foreign stages.
+
+The group was formed by violinist Tanya Schaap, who from that moment was the artistic leader behind this ensemble. The line-up is not conventional, but this actually proved to make for various musical opportunities and creativity. It also makes for the group’s unique sound.
+
+Note: there is also an argentinian band named Quinteto Tango Extremo
+
+- https://tangoextremo.com/
+- https://open.spotify.com/artist/3Z0WmsXVicUUP0UBIyule1
+- https://play.qobuz.com/artist/6922821
+
+## Tango Sin Fin 
+(aka Orquesta Sin Fin?, Argemtina)
+
+Tango Sin Fin is a non-profit organization based in Buenos Aires, Argentina, dedicated to the dissemination and promotion of Argentine music. 
+Tango Sin Fin works in collaboration with various institutions in Argentina and 
+in different countries of the world, generating activities of formation and promotion of Argentine music.
+
+- https://play.qobuz.com/artist/7003960
+- https://www.youtube.com/channel/UCNbbM6YO5uG9EiOVQA2knkg
+- https://tangosinfin.org.ar/
+
+
+
+## Tango Spleen Orquesta
+(Italy)
+
+Founded in 2008 in Italy by Argentine musician Mariano Speranza, Tango Spleen Orquesta has become a 
+well-established ensemble that, over the years, has welcomed numerous artists and 
+become a key reference in the style and language of tango. 
+Through its constant artistic dedication, the orchestra has achieved significant international milestones. 
+
+- https://www.tangospleen.com/
+- https://www.facebook.com/TangoSpleenOfficial
+- https://tangospleen.bandcamp.com/album/canyengue-20
+- https://open.spotify.com/artist/2zdYxQEfMoMsj8rzcdBKo6
+
+
+## Marios Strofalis Quartet 
+(Greece)
+
+https://www.youtube.com/@MariosStrofalis
+
+## Tangorra Orquesta Atípica [argentinian]
+
+https://tangorraorquesta.com/
+
+Hace 15 años que Mikele y Fran Borra crearon Tangorra. Desde sus inicios, la idea de crear un tango contemporáneo, actual y urbano fue buscando sus formas, explorando caminos y abriéndose paso entre los colores del techno alemán, el aprendizaje y la búsqueda de melodías propias y profundas inspiradas en el Tango atemporal, las quejas de bandoneón, y los diferentes elementos que dan forma a su música.
+
+A largo de este recorrido hermoso, fueron sumándose músicos, amigos, colegas que dejaron su huella imborrable en la banda. Porque a esta altura, Tangorra es más una banda que otra cosa. Con lógica de orquesta, pero banda al fin de las que se enriquecen con la creación colectiva, por la rotura del acontecimiento musical, las que celebran lo diferente.
+
+## Orquesta Típica Tanturi [argentinian]
+
+https://orquestatpicatanturi.bandcamp.com/
+https://open.spotify.com/artist/4PbAW8fUGEcgommwTTN27m
+
+Bajo la invocación, mas tanguera imposible, de la figura del maestro Ricardo Tanturi, La Típica Tanturi se introduce en el repertorio del Tango esencial y auténtico. En momentos  en el que muchos artistas jóvenes ingresan al tango en una búsqueda que mira hacia afuera del tango, los músicos de "la Tanturi" dirigen sus miradas hacia adentro, buscando, indagando y hasta jugando con soltura en las raíces mismas del genero. Cuanto valor tiene esta busqueda....! Desde Cantando Tangos felices de invitarlos a un encuentro con el tango posta... de La Típica Tanturi
+
+## Pablo Valle Sexteto
+
+https://pablovallesextetosiempretango.bandcamp.com/
+https://open.spotify.com/artist/3DGi8WEf7yB96AAMk0gBsd
+
+
+Sexteto de Tango que recrea a los más importantes orquestas del 40' y trae nuevas melodías a la escena actual.
+
+## Orquesta Típica La Vidú
+
+https://otlavidu.bandcamp.com/
+https://open.spotify.com/artist/7LGT8ydQZ969RUbzBNJbAQ
+
+La Orquesta Típica La Vidú se formó en el año 2005 con el anhelo de darle vida y continuidad al género, reafirmando la condición barrial del origen orillero del tango. Interpreta temas clásicos con arreglos propios y nutren el género con composiciones originales.
+Sexteto Visceral
 
 
 
