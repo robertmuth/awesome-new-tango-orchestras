@@ -100,20 +100,20 @@ Combo, Conjunto, Cuarteto, El, Ensemble, La, Los, Orquesta, Quinteto, Sexteto, T
 
 **T**
 
-- [TangoEsta](#)
-- [Tango No. 9](#)
-- [Tangata Quintet](#)
-- [Tango Bardo](#)
-- [Tango Extremo](#)
-- [Tango Sin Fin](#)
-- [Tango Spleen Orquesta](#)
-- [Tangorra Orquesta Atípica](#)
-- [Orquesta Típica Tanturi](#)
+- [TangoEsta](#tangoesta)
+- [Tango No. 9](#tango-no-9)
+- [Tangata Quintet](#tangata-quintet)
+- [Tango Bardo](#tango-bardo)
+- [Tango Extremo](#tango-extremo)
+- [Tango Sin Fin](#tango-sin-fin)
+- [Tango Spleen Orquesta](#tango-spleen-orquesta)
+- [Tangorra Orquesta Atípica](#tangorra-orquesta-atípica)
+- [Orquesta Típica Tanturi](#orquesta-típica-tanturi)
 
 **V**
 
-- [Orquesta Típica La Vidú](#)
-- [Sexteto Visceral](#)
+- [Orquesta Típica La Vidú](#orquesta-típica-la-vidú)
+- [Sexteto Visceral](#sexteto-visceral)
 
 
 ## Orchestras that did not quite pass the recent release filter
