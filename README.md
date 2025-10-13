@@ -3,6 +3,8 @@
 A collection of Tango Orchestras that had new releases after 
 the year 2000, play music not too far away from the golden era style and cater to dancers.
 
+If you want to add or fix something in this document, send a pull request or file an issue.
+
 ## Directory 
 
 Sort order is alphabetical after dropping all words like:
@@ -198,6 +200,16 @@ AYAHUASCA TANGO es un proyecto que nace en Madrid a finales de 2010. AYAHUASCA, 
 TANGO, la danza argentina por excelencia, es la conexión de lo masculino y lo femenino, el abrazo de los opuestos del que
 
 - https://ayahuascatango.bandcamp.com/ https://www.tangospleen.com/
+
+## Band-O-Neon 
+(Austria)
+
+The first typical tango orchestra of Austria, BAND-O-NEON "Orquesta Típica de Tango" was founded in May 1995. The name of the orchestra is related to the characteristic instrument of the tango, the bandoneon.
+
+The repertory consists of the tangos from the classical period (1880-1917), transition period (1917-1935), period of Tango-Nuevo (1935-1948) as well as contemporary works.
+
+- http://www.tango-bandoneon.at/english.htm
+- https://play.qobuz.com/artist/4254636
 
 ## Bandonegro 
 
@@ -763,38 +775,56 @@ Through its constant artistic dedication, the orchestra has achieved significant
 ## Marios Strofalis Quartet 
 (Greece)
 
-https://www.youtube.com/@MariosStrofalis
+*TODO: needs more research*
 
-## Tangorra Orquesta Atípica [argentinian]
+- https://www.youtube.com/@MariosStrofalis
+- https://www.facebook.com/p/Marios-Strofalis-100063553390862/
+- https://open.spotify.com/artist/1PSURAzSQH9R4f4Kfy3YIU
 
-https://tangorraorquesta.com/
+## Tangorra Orquesta Atípica 
+(Argentina)
 
 Hace 15 años que Mikele y Fran Borra crearon Tangorra. Desde sus inicios, la idea de crear un tango contemporáneo, actual y urbano fue buscando sus formas, explorando caminos y abriéndose paso entre los colores del techno alemán, el aprendizaje y la búsqueda de melodías propias y profundas inspiradas en el Tango atemporal, las quejas de bandoneón, y los diferentes elementos que dan forma a su música.
 
 A largo de este recorrido hermoso, fueron sumándose músicos, amigos, colegas que dejaron su huella imborrable en la banda. Porque a esta altura, Tangorra es más una banda que otra cosa. Con lógica de orquesta, pero banda al fin de las que se enriquecen con la creación colectiva, por la rotura del acontecimiento musical, las que celebran lo diferente.
 
-## Orquesta Típica Tanturi [argentinian]
+- https://tangorraorquesta.com/
+- https://open.spotify.com/artist/1unG1U4u7iTKsQv8fKmRSG
 
-https://orquestatpicatanturi.bandcamp.com/
-https://open.spotify.com/artist/4PbAW8fUGEcgommwTTN27m
+
+## Orquesta Típica Tanturi 
+(Argentina)
+
 
 Bajo la invocación, mas tanguera imposible, de la figura del maestro Ricardo Tanturi, La Típica Tanturi se introduce en el repertorio del Tango esencial y auténtico. En momentos  en el que muchos artistas jóvenes ingresan al tango en una búsqueda que mira hacia afuera del tango, los músicos de "la Tanturi" dirigen sus miradas hacia adentro, buscando, indagando y hasta jugando con soltura en las raíces mismas del genero. Cuanto valor tiene esta busqueda....! Desde Cantando Tangos felices de invitarlos a un encuentro con el tango posta... de La Típica Tanturi
 
+- https://orquestatpicatanturi.bandcamp.com/
+- https://open.spotify.com/artist/4PbAW8fUGEcgommwTTN27m'
+
 ## Pablo Valle Sexteto
+(Argentina)
 
-https://pablovallesextetosiempretango.bandcamp.com/
-https://open.spotify.com/artist/3DGi8WEf7yB96AAMk0gBsd
+Sexteto de Tango que recrea a los más importantes orquestas del 40' y trae 
+nuevas melodías a la escena actual.
 
+- https://pablovallesextetosiempretango.bandcamp.com/
+- https://open.spotify.com/artist/3DGi8WEf7yB96AAMk0gBsd
 
-Sexteto de Tango que recrea a los más importantes orquestas del 40' y trae nuevas melodías a la escena actual.
 
 ## Orquesta Típica La Vidú
 
-https://otlavidu.bandcamp.com/
-https://open.spotify.com/artist/7LGT8ydQZ969RUbzBNJbAQ
-
 La Orquesta Típica La Vidú se formó en el año 2005 con el anhelo de darle vida y continuidad al género, reafirmando la condición barrial del origen orillero del tango. Interpreta temas clásicos con arreglos propios y nutren el género con composiciones originales.
-Sexteto Visceral
+
+- https://otlavidu.bandcamp.com/
+- https://open.spotify.com/artist/7LGT8ydQZ969RUbzBNJbAQ
+- https://www.youtube.com/channel/UCSspVllRPy4lCejlPtR_AYg
+
+## Sexteto Visceral
+
+"Our tango orchestra was formed in early 2011. We chose the tango because we consider it the most representative music of the portègne culture, and we think it is fundamental to form groups of young musicians, which promote new and current stylistic research to continue this tradition of more than a century, while renewing the style, sound and artistic proposals. Our aim is to communicate with the tanguero public and attract new listeners who are not used to the style or who consider it obsolete, offering them an identity closer to the current codes of music and modern art."
+
+- https://www.youtube.com/channel/UCu8YWGiR9c0GIBqdl5C2fhw
+- https://open.spotify.com/artist/5OyqRQZbRb8r3TGDGf6X8C
 
 
 
