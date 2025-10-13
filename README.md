@@ -23,11 +23,13 @@ Combo, Conjunto, Cuarteto, El, Ensemble, La, Los, Orquesta, Quinteto, Sexteto, T
 - [Ayahuasca Tango](#ayahuasca-tango)
 
 **B**
+- [Band-O-Neon](#band-o-neon)
 - [Bandonegro](#bandonegro)
-- [Conjunto Berretin]
+- [Beata Söderberg](#beata-söderberg)
+- [Conjunto Berretin](#conjunto-berretin)
 
 **C**
-- [El Caburé](#el-cabure)
+- [El Caburé](#el-caburé)
 - [El Cachivache](#el-cachivache)
 - [Collectif Roulotte Tango](#collectif-roulotte-tango)
 - [Color Tango](#color-tango)
@@ -35,25 +37,82 @@ Combo, Conjunto, Cuarteto, El, Ensemble, La, Los, Orquesta, Quinteto, Sexteto, T
 
 **E**
 
-- [Orquesta Escuela de Tango]()
-
+- [Orquesta Escuela de Tango](#orquesta-escuela-de-tango)
 
 **F**
 
-- [Sexteto Fantasma]
-- [Orquesta Típica Fernández Fierro]
-- [Quinteto Francisco Canaro](#quinteto-francisco-canaro)
-
+- [Fabio Hager Sexteto](#fabio-hager-sexteto)
+- [Sexteto Fantasma](#sexteto-fantasma)
+- [Orquesta Típica Fernández Fierro](#orquesta-típica-fernández-fierro)
+- [Fernando Serrano](#fernando-serrano)
+- [Forever Tango](#forever-tango)
+- 
 **G**
 
+- [Trio Garufa](#trio-garufa)
+- [Gente De Tango](#gente-de-tango)
+
+**H**
+- [Los Herederos Del Compás]
+- [Hyperion Ensemble]
+
 **J**
+- [La Juan D’Arienzo]
 - [Javier Fioramonti]
 
 **M**
-**N**
+
+- [Mandragora Tango Orchestra]
+- [Marios Strofalis Quartet]
+- [Sexteto Milonguero]
+- [Orquesta Típica Misteriosa Buenos Aires]
 
 **P**
+
+- [Pablo Valle Sexteto]
+- [Trio Pantango]
+- [Orquesta Típica Pichuco]
+  
 **Q**
+
+- [Quartango]
+- [Quintango]
+
+**R**
+
+- [Los Reyes del Tango]
+- [Romantica Milonguera]
+- [Cuarteto Rotterdam]
+
+**S**
+
+- [Orquesta Típica San Juan]
+- [Orquesta Típica Sans Souci]
+- [La Santa Calavera]
+- [Sentimental y Canyengue]
+- [Orquesta Silbando]
+- [Silencio Tango Orchestra]
+- [Solo Tango]
+- [Cuarteto Soltango]
+- [Sonder Tango]
+
+**T**
+
+- [TangoEsta]
+- [Tango No. 9]
+- [Tangata Quintet]
+- [Tango Bardo]
+- [Tango Extremo]
+- [Tango Sin Fin]
+- [Tango Spleen Orquesta]
+- [Tangorra Orquesta Atípica]
+- [Orquesta Típica Tanturi]
+
+**V**
+
+- [Orquesta Típica La Vidú]
+- [Sexteto Visceral]
+
 
 ## Orchestras that did not quite pass the recent release filter
 
@@ -227,7 +286,7 @@ Their extraordinary passion, fresh sound, and unique style that is perfect for d
 - https://open.spotify.com/artist/5Rpff7DPog7AbFLdMmisUy
 - https://www.youtube.com/bandonegro
 
-Beata Söderberg 
+## Beata Söderberg 
 (Sweden)
 
 Beata is a composer, librettist and cellist, best known for her tango-inspired works. Among other things, 
@@ -465,6 +524,15 @@ In 2004 it was hired by Theatre De La Jeune Lune for their highly acclaimed prod
 
 - https://open.spotify.com/artist/6927AljyPM8QhyJOD1kxje
 
+## Marios Strofalis Quartet 
+(Greece)
+
+*TODO: needs more research*
+
+- https://www.youtube.com/@MariosStrofalis
+- https://www.facebook.com/p/Marios-Strofalis-100063553390862/
+- https://open.spotify.com/artist/1PSURAzSQH9R4f4Kfy3YIU
+- 
 ## Sexteto Milonguero
 
 Sexteto Milonguero se formó en 2006 por Javier Di Ciriaco (Cantante). Es una de las orquestas de tango más conocidas, 
@@ -490,7 +558,14 @@ tangos clásicos, tangos nuevos, valses, milongas, milongas - candombe y folclor
 - https://open.spotify.com/artist/0UFC4msCQKBeYGdwD7nUkr
 
 
+## Pablo Valle Sexteto
+(Argentina)
 
+Sexteto de Tango que recrea a los más importantes orquestas del 40' y trae 
+nuevas melodías a la escena actual.
+
+- https://pablovallesextetosiempretango.bandcamp.com/
+- https://open.spotify.com/artist/3DGi8WEf7yB96AAMk0gBsd
 ## Trio Pantango
 (Argentina)
 
@@ -772,15 +847,6 @@ Through its constant artistic dedication, the orchestra has achieved significant
 - https://open.spotify.com/artist/2zdYxQEfMoMsj8rzcdBKo6
 
 
-## Marios Strofalis Quartet 
-(Greece)
-
-*TODO: needs more research*
-
-- https://www.youtube.com/@MariosStrofalis
-- https://www.facebook.com/p/Marios-Strofalis-100063553390862/
-- https://open.spotify.com/artist/1PSURAzSQH9R4f4Kfy3YIU
-
 ## Tangorra Orquesta Atípica 
 (Argentina)
 
@@ -800,15 +866,6 @@ Bajo la invocación, mas tanguera imposible, de la figura del maestro Ricardo Ta
 
 - https://orquestatpicatanturi.bandcamp.com/
 - https://open.spotify.com/artist/4PbAW8fUGEcgommwTTN27m'
-
-## Pablo Valle Sexteto
-(Argentina)
-
-Sexteto de Tango que recrea a los más importantes orquestas del 40' y trae 
-nuevas melodías a la escena actual.
-
-- https://pablovallesextetosiempretango.bandcamp.com/
-- https://open.spotify.com/artist/3DGi8WEf7yB96AAMk0gBsd
 
 
 ## Orquesta Típica La Vidú
