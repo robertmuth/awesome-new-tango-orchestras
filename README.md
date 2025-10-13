@@ -132,7 +132,9 @@ Combo, Conjunto, Cuarteto, El, Ensemble, La, Los, Orquesta, Quinteto, Sexteto, T
 - Melingo
 - Bailongo!
 - Bajo Fondo
+- Carlos Libedinsky
 - Gotan Project
+- Narcotango
 - Otros Aires
 - San Telmo Lounge
 - Tanghetto
@@ -164,6 +166,11 @@ Combo, Conjunto, Cuarteto, El, Ensemble, La, Los, Orquesta, Quinteto, Sexteto, T
 - Combo Tango
 - Rogue Tango (https://scottmateo.com/rogue-tango/)
 - The Tango Group
+- Cuarteto Entre Mundos
+- Orquesta Típica Julián Peralta
+- Orquesta Típica El Afronte
+- Orquesta Típica Ciudad Baigón
+- Orquesta Victoria 
 
 
 ## Amores Tangos
