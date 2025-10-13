@@ -12,14 +12,14 @@ Combo, Conjunto, Cuarteto, El, Ensemble, La, Los, Orquesta, Quinteto, Sexteto, T
 
 **A**
 
-- [Amores Tangos](#amores-tango)
-- [Analia Goldberg](analia-goldberg)
-- [Orquesta Típica Andariega](#orquesta-tipica-andariega)
-- [Quinteto Ángel](#quinteto-angel)
+- [Amores Tangos](#amores-tangos)
+- [Analia Goldberg](#analia-goldberg)
+- [Orquesta Típica Andariega](#orquesta-típica-andariega)
+- [Quinteto Ángel](ht#quinteto-ángel)
 - [Orquesta El Arranque](#orquesta-el-arranque)
 - [Astillero](#astillero)
 - [Athens Tango Ensemble]([#athens-tango-ensemble)
-- [La Auténtica Milonguera](#la-autentica-milonguera)
+- [La Auténtica Milonguera](#la-auténtica-milonguera)
 - [Ayahuasca Tango](#ayahuasca-tango)
 
 **B**
@@ -54,66 +54,66 @@ Combo, Conjunto, Cuarteto, El, Ensemble, La, Los, Orquesta, Quinteto, Sexteto, T
 
 **H**
 
-- [Los Herederos Del Compás]
+- [Los Herederos Del Compás](#los-herederos-del-compás)
 - [Hyperion Ensemble](#hyperion-ensemble)
 
 **J**
 
-- [La Juan D’Arienzo]
+- [La Juan D’Arienzo](la-juan-d-arienzo)
 - [Javier Fioramonti](#javier-fioramonti)
 
 **M**
 
-- [Mandragora Tango Orchestra]
-- [Marios Strofalis Quartet]
-- [Sexteto Milonguero]
-- [Orquesta Típica Misteriosa Buenos Aires]
+- [Mandragora Tango Orchestra](#mandragora-tango-orchestra)
+- [Marios Strofalis Quartet](#marios-strofalis-quartet)
+- [Sexteto Milonguero](#sexteto-milonguero)
+- [Orquesta Típica Misteriosa Buenos Aires](#orquesta-típica-misteriosa-buenos-aires)
 
 **P**
 
-- [Pablo Valle Sexteto]
-- [Trio Pantango]
-- [Orquesta Típica Pichuco]
+- [Pablo Valle Sexteto](#pablo-valle-sexteto)
+- [Trio Pantango](#trio-pantango)
+- [Orquesta Típica Pichuco](#orquesta-típica-pichuco)
   
 **Q**
 
-- [Quartango]
-- [Quintango]
+- [Quartango](#quartango)
+- [Quintango](#quintango)
 
 **R**
 
-- [Los Reyes del Tango]
-- [Romantica Milonguera]
-- [Cuarteto Rotterdam]
+- [Los Reyes del Tango](#)
+- [Romantica Milonguera](#)
+- [Cuarteto Rotterdam](#)
 
 **S**
 
-- [Orquesta Típica San Juan]
-- [Orquesta Típica Sans Souci]
-- [La Santa Calavera]
-- [Sentimental y Canyengue]
-- [Orquesta Silbando]
-- [Silencio Tango Orchestra]
-- [Solo Tango]
-- [Cuarteto Soltango]
-- [Sonder Tango]
+- [Orquesta Típica San Juan](#)
+- [Orquesta Típica Sans Souci](#)
+- [La Santa Calavera](#)
+- [Sentimental y Canyengue](#)
+- [Orquesta Silbando](#)
+- [Silencio Tango Orchestra](#)
+- [Solo Tango](#)
+- [Cuarteto Soltango](#)
+- [Sonder Tango](#)
 
 **T**
 
-- [TangoEsta]
-- [Tango No. 9]
-- [Tangata Quintet]
-- [Tango Bardo]
-- [Tango Extremo]
-- [Tango Sin Fin]
-- [Tango Spleen Orquesta]
-- [Tangorra Orquesta Atípica]
-- [Orquesta Típica Tanturi]
+- [TangoEsta](#)
+- [Tango No. 9](#)
+- [Tangata Quintet](#)
+- [Tango Bardo](#)
+- [Tango Extremo](#)
+- [Tango Sin Fin](#)
+- [Tango Spleen Orquesta](#)
+- [Tangorra Orquesta Atípica](#)
+- [Orquesta Típica Tanturi](#)
 
 **V**
 
-- [Orquesta Típica La Vidú]
-- [Sexteto Visceral]
+- [Orquesta Típica La Vidú](#)
+- [Sexteto Visceral](#)
 
 
 ## Orchestras that did not quite pass the recent release filter
