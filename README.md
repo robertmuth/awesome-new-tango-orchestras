@@ -15,10 +15,10 @@ Combo, Conjunto, Cuarteto, El, Ensemble, La, Los, Orquesta, Quinteto, Sexteto, T
 - [Amores Tangos](#amores-tangos)
 - [Analia Goldberg](#analia-goldberg)
 - [Orquesta Típica Andariega](#orquesta-típica-andariega)
-- [Quinteto Ángel](ht#quinteto-ángel)
+- [Quinteto Ángel](#quinteto-ángel)
 - [Orquesta El Arranque](#orquesta-el-arranque)
 - [Astillero](#astillero)
-- [Athens Tango Ensemble]([#athens-tango-ensemble)
+- [Athens Tango Ensemble](#athens-tango-ensemble)
 - [La Auténtica Milonguera](#la-auténtica-milonguera)
 - [Ayahuasca Tango](#ayahuasca-tango)
 
