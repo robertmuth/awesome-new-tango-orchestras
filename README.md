@@ -54,7 +54,7 @@ Combo, Conjunto, Cuarteto, El, Ensemble, La, Los, Orquesta, Quinteto, Sexteto, T
 - Típica Messiez
 - Los Milonguitas
 - Neotango
-- Nuevo Quinteto Real
+- Nuevo Quinteto Real (Horacio Salgan, may not have a recent release)
 - Los Muchachos De Antes
 - Cuarteto Mulenga
 - The New York Tango Trio
@@ -72,10 +72,11 @@ Combo, Conjunto, Cuarteto, El, Ensemble, La, Los, Orquesta, Quinteto, Sexteto, T
 - Pequeños Gigantes del Tango 
 - Quinteto Negro La Boca
 - Tango Jointz
-- Quinteto Real
+- Quinteto Real (Horacio Salgan, may not have a recent release)
 - Los Reyes del Tango
-- Los Solistas de D' Arienzo
+- Los Solistas de D' Arienzo (may not have a recent release)
 - Combo Tango
+- Rogue Tango (https://scottmateo.com/rogue-tango/)
 
 
 
@@ -92,6 +93,7 @@ Amores was founded in 2008 as a meeting of musicians and friends who, after play
 
 *needs more reasearch*
 
+- https://www.facebook.com/analia.goldberg.7/
 - https://analiagoldberg.bandcamp.com/album/analia-goldberg
 - https://open.spotify.com/artist/2PKVqXSxKrJuOuUPplmWzW
 
@@ -169,7 +171,6 @@ Teniendo la esencia de las grandes orquestas de siempre y llevando al corazón d
 ## Ayahuasca Tango
 (Spain)
 
-
 AYAHUASCA TANGO es un proyecto que nace en Madrid a finales de 2010. AYAHUASCA, la planta sagrada de los chamanes, es la conexión del yo con su verdadera esencia.
 TANGO, la danza argentina por excelencia, es la conexión de lo masculino y lo femenino, el abrazo de los opuestos del que
 
@@ -206,7 +207,10 @@ https://open.spotify.com/artist/2gYwILCBn0w1XG4V8mCZW0
 aka The Alex Krebs Tango Sextet, The Alex Krebs Tango Quartet, Yango Berretin
 (USA)
 
+Conjunto Berretín was formed in 2001 under the direction of bandoneón player, Alex Krebs, in Portland, Oregon.
+Conjunto Berretín plays tango dance music and can range in configuration from duo to quartet, sextet, nonet and 12-piece orquesta típica.
 
+- https://www.conjuntoberretin.com/
 - https://www.tangoberretin.com/
 - https://tangoberretin.bandcamp.com/
 - https://open.spotify.com/artist/12vM6NrsES5aflXWyPKukO
@@ -221,6 +225,7 @@ bajo la dirección del maestro Horacio Salgán, dando énfasis en la distribuci�
 
 - https://open.spotify.com/artist/3MfAGMzqBGbsoXTAK2dfZj
 - https://soundcloud.com/elcabure
+- https://play.qobuz.com/artist/4823573
 
 ## El Cachivache
 (Argentina)
@@ -336,7 +341,9 @@ Artist of Argentine origin. Teacher, Choreographer, Professional Dancer, Musicia
 
 ## Forever Tango
 
-Luis Bravo's Forver Tango, the internationally celebrated entertainment event that has played to great acclaim in Europe, Canada, Asia, Mexico and throughout the United States, and most recently enjoyed its third run on Broadway,
+Luis Bravo's Forver Tango is an internationally celebrated entertainment event 
+that has played to great acclaim in Europe, Canada, Asia, Mexico and throughout the United States, 
+and most recently enjoyed its third run on Broadway
 
 - https://www.forevertango.us/
 - https://www.facebook.com/forevertango/
@@ -346,6 +353,8 @@ Luis Bravo's Forver Tango, the internationally celebrated entertainment event th
 
 ## Quinteto Francisco Canaro
 
+Con la dirección musical de Antonio D'Alessandro (may not have recent releases)
+ 
 *Needs more research*
 
 - https://open.spotify.com/artist/08oVNPaNvcdlzLUxAXfOeY
@@ -366,8 +375,13 @@ The group includes Guillermo García, guitar (Argentina) Adrian Jost, bandoneon 
 - https://open.spotify.com/artist/4sa75tSPwcmeaW7etc30SN
 
 ## Gente De Tango
+(Aregentina)
 
-*needs more research*
+During 1981, a group of amateur musicians with a common passion for tango began practicing together. 
+They formed to interpret the renowned style of Carlos Di Sarli and became the Orquesta Tipica Gente de Tango. 
+On November 1, 1981, they made their debut on Channel 11 in Buenos Aires. 
+They are the only orchestra in the world performing the repertoire of the Carlos Di Sarli orquesta, 
+thanks to the dedication of Enrique Seone, one of two founding members.
 
 - https://open.spotify.com/artist/3HaaPRlBtJYCxwd9LZpgEj
 - https://soundcloud.com/gentedetangoofficial
@@ -386,7 +400,6 @@ They build their musical career with international success. continuing the style
 ## Hyperion Ensemble 
 (Italy)
 
-
 Hyperion Ensemble was founded in 1992 and is passionate about contemporary music, particularly the works of Piazzolla and Traditional Tango music. 
 Over the past 30 years, the ensemble has performed in more than 1200 shows, festivals, and theaters across Europe, Asia, and America,
 showcasing a diverse repertoire from contemporary to traditional Tango. The group has collaborated with well-known bandoneonists and r
@@ -397,15 +410,18 @@ Additionally, the ensemble has performed in historical milongas in Buenos Aires 
 - http://www.ensemblehyperion.it/
 
 ## La Juan D’Arienzo 
-(argentina)
+(Argentina)
+
+Founded in 2012 to recreate the famous Tango style of "El rey del Compás".
 
 - https://www.lajuandarienzo.com/en/home-english/
 - https://www.facebook.com/LaJuanDarienzotango/
 
 
 ## Javier Fioramonti
+(Argentina)
 
-Javier Fioramonti, born in Santa Fe , Argentina, studied guitar at the National School of Music of Rosario, 
+Javier Fioramonti, born in Santa Fe, Argentina, studied guitar at the National School of Music of Rosario, 
 studied harmony and composition with Lucho Gonzalez (Mercedes Sosa, Chabuca Granda) and later joined his teaching team, 
 doing (amongst other studies) the Berklee College of Music summer courses in Buenos Aires.
 
@@ -414,8 +430,12 @@ doing (amongst other studies) the Berklee College of Music summer courses in Bue
 
 
 ## Mandragora Tango Orchestra
+(USA)
 
-*needs more research*
+The "mandragora" is the mandrake root, which grows in Argentina. 
+The group is a quartet (bandoneon/accordian, violin, bass and guitar) that adores the music of Astor Piazzolla but committed to being a dance band, as well. 
+It performs the entire spectrum of Troilo, Gardel, Plaza — 70 or more years of great tangos and milongas. 
+In 2004 it was hired by Theatre De La Jeune Lune for their highly acclaimed production of Piazzolla’s Maria de Buenos Aires.
 
 - https://open.spotify.com/artist/6927AljyPM8QhyJOD1kxje
 
@@ -444,6 +464,9 @@ tangos clásicos, tangos nuevos, valses, milongas, milongas - candombe y folclor
 - https://open.spotify.com/artist/0UFC4msCQKBeYGdwD7nUkr
 
 ## Orquesta Típica Pichuco
+(Argentina)
+
+La Orquesta Típica "Pichuco" busca recrear y poner en escena, el estilo de la gran "Orquesta Típica de Aníbal Troilo".
 
 - https://www.facebook.com/otpichuco
 - https://www.youtube.com/@orquestatipicapichuco6281
@@ -504,6 +527,10 @@ The quartet’s classic structure, consisting of bandoneón, violin, piano and d
 
 
 ## Orquesta Típica San Juan
+(Argentina)
+
+Orquesta Típica de Tango argentino dirigida por el Maestro Esteban Calderón
+San Juan - Argentina, nacida en 2012.
 
 - https://www.facebook.com/orquestatipicasanjuan/
 - https://open.spotify.com/artist/260ML74c43S0bVWxOdvpma
@@ -521,12 +548,23 @@ and plays weekly shows in Buenos Aires in the most popular milongas of the city.
 - https://open.spotify.com/artist/1YTLg92OLJ8MpfA1tJEftF
 
 ## La Santa Calavera
+(Argentina)
+
+La Santa Calavera is a band from Buenos Aires, Argentina, who is profoundly anchored in the enthralling subgenre of Tango. 
+La Santa Calavera captivates audiences with their deep melodies and rhythmic compositions, 
+displaying a fierce passion for music and obvious talent.
 
 - https://open.spotify.com/artist/4Ekzhqyp6d4CpdNqp6Wh3W
 - https://www.facebook.com/lasantacalavera/
 
 
 ## Sentimental y Canyengue
+(Argentina)
+
+Sentimental y Canyengue es una orquesta típica que revive con precisión y pasión 
+los sonidos del tango tradicional de los años 40. 
+Con una dedicación a la recreación histórica de los estilos que definieron esa época dorada del tango.
+
 
 - https://www.facebook.com/p/Sentimental-y-Canyengue-100094666946066/
 - https://open.spotify.com/artist/1902otfLVL41v5uuVSLyvF
@@ -569,6 +607,7 @@ It is the only European tango-orchestra that was nominated to the “Premios Tan
 
 ## Cuarteto Soltango
 (Germany)
+
 Since it was founded in 2008, the quartet was invited to perform repeatedly at the music festivals of Schleswig-Holstein and Oberstdorf, 
 thereby launching their musical brand at outstanding classical venues. Since then, the four have played at a number of 
 international festivals – most recently at the innovative Grachtenfestival in Amsterdam, the Heidelberg Spring and the Studio Concert series at Bavarian Broadcast, Munich.
