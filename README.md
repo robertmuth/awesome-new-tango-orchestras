@@ -74,10 +74,7 @@ Combo, Conjunto, Cuarteto, El, Ensemble, La, Los, Orquesta, Quinteto, Sexteto, T
 - Tango Jointz
 - Quinteto Real
 - Los Reyes del Tango
-- Fernando Serrano
-- Orquesta Silbando
 - Los Solistas de D' Arienzo
-- Cuarteto Soltango
 - Combo Tango
 
 
@@ -162,8 +159,6 @@ fifteen musical diamonds that originate from the classical era of Tango music (t
 ## La Auténtica Milonguera 
 (Argentina)
 
-
-
 La Autentica Milonguera es un sexteto de Tango que ha llegado para poner nuestra música en lo mas alto. 
 Teniendo la esencia de las grandes orquestas de siempre y llevando al corazón de cada milonguero del mundo todo nuestros sentimientos. 
 
@@ -199,6 +194,11 @@ Their extraordinary passion, fresh sound, and unique style that is perfect for d
 Beata Söderberg 
 (Sweden)
 
+Beata is a composer, librettist and cellist, best known for her tango-inspired works. Among other things, 
+she has been nominated for an Argentine Grammy - Los Premios Carlos Gardel.
+
+​
+https://open.spotify.com/artist/2gYwILCBn0w1XG4V8mCZW0
 
 
 ## Conjunto Berretin
@@ -325,6 +325,14 @@ Nacida en 2001, Fernández Fierro ha revolucionado la escena del tango con su vi
 - https://play.qobuz.com/artist/3377825
 - https://www.youtube.com/@FERNANDEZFIERROCanalOficial
 
+## Fernando Serrano
+
+Artist of Argentine origin. Teacher, Choreographer, Professional Dancer, Musician and Producer. He travels intensely and divides his life between Argentina and Italy where he directs the Tango Allegria Cultural Association dedicated to Spreading Argentine Culture in the World.
+
+- https://www.fernandoserrano.eu/
+- https://fernandoserrano.bandcamp.com/
+- https://www.youtube.com/fernandoserrano
+- https://open.spotify.com/artist/4jtMTIQcGR4udvYbub6mfT
 
 ## Forever Tango
 
@@ -365,19 +373,26 @@ The group includes Guillermo García, guitar (Argentina) Adrian Jost, bandoneon 
 - https://soundcloud.com/gentedetangoofficial
 
 
-## Los Herederos Del Compás [argentinian]
-
+## Los Herederos Del Compás 
+(Argentina)
 
 Since its inception in 2009, Los Herederos del Compás orchestra is one of the most recognized in tango. 
 They build their musical career with international success. continuing the style of Juan D'Arienzo, king of rhythm, king of the milonga.
 
 - https://losherederosdelcompas.bandcamp.com/
+- https://www.facebook.com/losherederosdelcompas/
+- https://www.youtube.com/user/herederosdelcompas
 
 ## Hyperion Ensemble 
 (Italy)
 
 
-Hyperion Ensemble was founded in 1992 and is passionate about contemporary music, particularly the works of Piazzolla and Traditional Tango music. Over the past 30 years, the ensemble has performed in more than 1200 shows, festivals, and theaters across Europe, Asia, and America, showcasing a diverse repertoire from contemporary to traditional Tango. The group has collaborated with well-known bandoneonists and regularly participates in prestigious Tango Festivals across Europe. Hyperion Ensemble has also provided musical accompaniment for various international dance shows and has toured in Germany, Bali, Jakarta, Dubai, and the USA. Additionally, the ensemble has performed in historical milongas in Buenos Aires and has shared the stage with renowned dancers worldwide.
+Hyperion Ensemble was founded in 1992 and is passionate about contemporary music, particularly the works of Piazzolla and Traditional Tango music. 
+Over the past 30 years, the ensemble has performed in more than 1200 shows, festivals, and theaters across Europe, Asia, and America,
+showcasing a diverse repertoire from contemporary to traditional Tango. The group has collaborated with well-known bandoneonists and r
+egularly participates in prestigious Tango Festivals across Europe. 
+Hyperion Ensemble has also provided musical accompaniment for various international dance shows and has toured in Germany, Bali, Jakarta, Dubai, and the USA. 
+Additionally, the ensemble has performed in historical milongas in Buenos Aires and has shared the stage with renowned dancers worldwide.
 
 - http://www.ensemblehyperion.it/
 
@@ -400,6 +415,8 @@ doing (amongst other studies) the Berklee College of Music summer courses in Bue
 
 ## Mandragora Tango Orchestra
 
+*needs more research*
+
 - https://open.spotify.com/artist/6927AljyPM8QhyJOD1kxje
 
 ## Sexteto Milonguero
@@ -410,24 +427,54 @@ que ha viajado por casi todo el mundo, con una personalidad única e inconfundib
 El estilo del grupo, tiene un comienzo, en esencia, bailable. Y a lo largo de los años, también debido a la diversidad de lugares donde se han presentado en los últimos años, como teatros o festivales en todo el mundo, se han agregado a su extenso repertorio, una variedad de canciones propias, canciones de folklore argentino, etc. Esto ha permitido mostrar y fusionar las diferentes influencias que cada uno de los integrantes del sexteto incluye: música popular argentina, jazz, clásica, rock, etc. ... influencias contemporáneas actuales.
 
 - https://es.wikipedia.org/wiki/Sexteto_Milonguero
+- https://open.spotify.com/artist/30D3R1VEr9c8imrHOlKJuE
+- https://www.youtube.com/@sextetomilonguero
 
 ## Orquesta Típica Misteriosa Buenos Aires
+(Argentina)
 
+La Orquesta Típica Misteriosa Buenos Aires, nace en el año 2008, como una propuesta musical renovadora del tango bailable; 
+retomando el legado de las grandes orquestas del 40, su repertorio es variado y dinámico, y abarca
+tangos clásicos, tangos nuevos, valses, milongas, milongas - candombe y folclore argentino.
+
+- https://www.misteriosabuenosaires.com/
+- https://www.facebook.com/lamisteriosaba
+- https://orquestatipicamisteriosabuenosaires.bandcamp.com/
+- https://www.youtube.com/channel/UCOQYElsfAColqCyscG7L9tQ?view_as=subscriber
+- https://open.spotify.com/artist/0UFC4msCQKBeYGdwD7nUkr
 
 ## Orquesta Típica Pichuco
 
+- https://www.facebook.com/otpichuco
+- https://www.youtube.com/@orquestatipicapichuco6281
 - https://open.spotify.com/artist/6yUKbGcBtFzyGWRbiaxrhH
 
 ## Quartango 
 (Canada)
 
+When four classically trained musicians come together to explore their passion for tango, the result is nothing short of delightful. 
+Quartango takes tango in new directions, with impeccable arrangements, subtle and unexpected allusions to classical music, 
+and a liberal dose of humour, all woven together by the elegant interplay of ensemble playing at its best. 
+Quartango offers up a varied repertoire ranging from the best-loved classic tangos to tango nuevo and Piazzolla, 
+and also explores other genres from jazz and ragtime to waltzes and Celtic jigs in its own inimitable style. 
+
+- https://justin-time.com/collections/quartango
+- https://open.spotify.com/artist/17uwsro5DX00QT8g9rr3gL
+
 ## Quintango
+(USA)
+
+QuinTango's musicians are top-notch classically-trained instrumentalists whose distinctive "contemporary chamber tango" style blends intimacy and bravado with passion and precision. 
+Equally at home on concert stages or in classrooms, QuinTango reimagines tango classics, shares their deeply personal originals, and treats audiences to tango-inflected versions of familiar ballads. From the White House to Buenos Aires, from festivals in Europe to classrooms in Appalachia, QuinTango's music and personal narratives make lasting connections with every performance. 
+QuinTango has partnered with Mayan villages in Guatemala and Mexico, string orchestras in Costa Rica and France, as well as professional symphony musicians and high school students in Campeche, Mexico. These adventurous chamber musicians bridge cultures and dismantle stereotypes with their music, stories, and multigenerational, multi-cultural presence. 
+Powered by passion, they are connecting the world one tango at a time.
 
 - https://www.quintango.com/
+- https://www.youtube.com/@QuinTango
+- https://open.spotify.com/artist/3bp7MrcE5aBmWNCo8NlwdP
 
 ## Romantica Milonguera 
 (Argentina)
-
 
 Das 10-köpfige Orchester wurde unter anderem durch seine witzigen Musikvideos bekannt und gilt als das vermutlich angesagteste Tango-Orchester Argentiniens, wenn nicht der ganzen Welt. Bei der jungen Formation aus Buenos Aires wird der Tango Argentino romantisch.
 
@@ -440,6 +487,7 @@ Wunderbar tanzbar, perfekte Musiker, interessante Arrangements, goldene Stimmen!
 - https://open.spotify.com/artist/2yN99QuwGDm319KHi1aSeY
 
 ## Cuarteto Rotterdam
+(Europe)
 
 Brought into being in 2004, the ensemble was named after its birthplace in the Netherlands, where, at that time, the three founding members, Michael Dolak, Susanne Cordula Welsch and Judy Ruks, were studying tango at the Rotterdam Academy for World Music. 2007 they moved together to Germany. Nowadays they are living in Berlin, Stuttgart and Paris.
 
@@ -449,10 +497,28 @@ The quartet’s classic structure, consisting of bandoneón, violin, piano and d
 
 
 - https://www.cuarteto-rotterdam.com/en/
+- http://www.facebook.com/cuartetorotterdam
+- https://www.youtube.com/channel/UCrjO6tdJt_eJ_X3dAiN_C0Q
+- https://cuarteto-rotterdam.bandcamp.com/
+- https://open.spotify.com/artist/4Py5zxpgnXa49ooER8KuGN
+
 
 ## Orquesta Típica San Juan
 
-## La Sans Souci
+- https://www.facebook.com/orquestatipicasanjuan/
+- https://open.spotify.com/artist/260ML74c43S0bVWxOdvpma
+
+## Orquesta Típica Sans Souci
+(Argentina)
+
+The Orquesta Típica Sans Souci was created in 1998 in Buenos Aires with the specific purpose of rescuing 
+for today’s audience the musical style of Miguel Caló and Osmar Maderna’s typical orchestras.
+The Orquesta Típica Sans Souci holds a reputation for being one of the best orquesta milonguera, 
+and plays weekly shows in Buenos Aires in the most popular milongas of the city.
+
+- https://sanssoucitango.com/
+- https://www.youtube.com/channel/UCJ8JMWi9-VvWXLI0N-xTgPg
+- https://open.spotify.com/artist/1YTLg92OLJ8MpfA1tJEftF
 
 ## La Santa Calavera
 
@@ -462,11 +528,28 @@ The quartet’s classic structure, consisting of bandoneón, violin, piano and d
 
 ## Sentimental y Canyengue
 
+- https://www.facebook.com/p/Sentimental-y-Canyengue-100094666946066/
 - https://open.spotify.com/artist/1902otfLVL41v5uuVSLyvF
+- https://www.youtube.com/@sentimentalycanyengue
+
+
+## Orquesta Silbando
+(France)
+
+Formé en 2010, l’orchestre Silbando est un des ensembles de Tango Argentin les plus demandés en Europe. 
+Basé à Paris, il est né lors du prestigieux stage d’orchestre tango du festival de Tarbes, 
+de la rencontre de jeunes musiciens de diverses nationalité (France, Argentine, Chili, Espagne) partageant une même ambition : 
+fonder un orchestre typique de tango argentin. Sous la direction artistique de Chloë Pfeiffer, également pianiste et arrangeuse de l'orchestre, 
+Silbando se dédie à promouvoir et apporter une nouvelle identité au tango d'hier et d'aujourd'hui.
+  
+- https://www.silbandotango.com/
+- https://www.facebook.com/orquesta.silbando/
+- https://www.youtube.com/user/orquestasilbando
+- https://orquestasilbando.bandcamp.com/
+- https://open.spotify.com/artist/6lHGHB9uhwl7f72FmGTxip
 
 ## Silencio Tango Orchestra 
 (Europe)
-
 
 The international Tango Orchestra "SILENCIO" was founded 2001 in Europe. After just a few years, the group quickly gained a great reputation playing at tango festivals throughout Europe and is now one of the most famous tango orchestras founded on the European continent, performing in its beginnings together with the beloved bandoneonist Alfredo Marcucci.
 The profound quality of SILENCIO has been inspired by very pure styles from Carlos Di Sarli, Roberto Biagi to Alfredo Gobbi: the bases of Silencio's authentic sound. The group has developed its own and very personal sound, performing for more than 10 years together.
@@ -475,17 +558,25 @@ SILENCIO consists of musicians from around the world (Argentina, Uruguay, Cuba, 
 - http://www.silenciotango.com/
 - https://www.facebook.com/tipicasilencio/
 
-Solo Tango 
+## Solo Tango 
 (Russia, Greece]
 
-
 Solo Tango is a world known tango orquesta (Team was founded in the summer of 2010)
-
 It is the only European tango-orchestra that was nominated to the “Premios Tango” (Buenos Aires / March 2018 & 2019).
-Special version of “Los Mareados” from Solo Tango Orquesta became victorious on XV world games in Buenos Aires (Mundial de Tango 2018).
 
-- https://www.youtube.com/c/SoloTangoOrquesta
 - https://solotango.bandcamp.com/
+- https://www.youtube.com/c/SoloTangoOrquesta
+
+## Cuarteto Soltango
+(Germany)
+Since it was founded in 2008, the quartet was invited to perform repeatedly at the music festivals of Schleswig-Holstein and Oberstdorf, 
+thereby launching their musical brand at outstanding classical venues. Since then, the four have played at a number of 
+international festivals – most recently at the innovative Grachtenfestival in Amsterdam, the Heidelberg Spring and the Studio Concert series at Bavarian Broadcast, Munich.
+
+- https://soltango.com/
+- https://www.facebook.com/cuartetosoltango
+- https://www.youtube.com/channel/UCMspdxd8s5hBTElghnLeIcQ
+- https://open.spotify.com/artist/2nAI0fe0pCeiovwQUDB6Rg
 
 ## Sonder Tango
 
