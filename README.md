@@ -597,12 +597,17 @@ SILENCIO consists of musicians from around the world (Argentina, Uruguay, Cuba, 
 - https://www.facebook.com/tipicasilencio/
 
 ## Solo Tango 
-(Russia, Greece]
+(Russia)
 
-Solo Tango is a world known tango orquesta (Team was founded in the summer of 2010)
-It is the only European tango-orchestra that was nominated to the “Premios Tango” (Buenos Aires / March 2018 & 2019).
+Solo Tango is a Russian tango orchestra that conquered the world’s Tango Olympus. 
+The band was founded in the summer of 2010 and in incredibly short time has gained international recognition.
+Solo Tango Orquesta is a winners of XXXV international competition "Castelfidardo Festival Internazionale della fisarmonica"
+in Italy in the category "Piazzolla ‘s Music" (2010) and 49 Internationaler Akkordeonwettbewerb 2012.
+It is the only European tango-orchestra that was nominated to the First international “Premios Tango” (Buenos Aires / March 2018).
 
+- http://stango.ru/
 - https://solotango.bandcamp.com/
+- https://www.facebook.com/SoloTangoOrquesta/
 - https://www.youtube.com/c/SoloTangoOrquesta
 
 ## Cuarteto Soltango
@@ -618,7 +623,16 @@ international festivals – most recently at the innovative Grachtenfestival in 
 - https://open.spotify.com/artist/2nAI0fe0pCeiovwQUDB6Rg
 
 ## Sonder Tango
+(Italy, Argentina)
 
+Sonder Tango is an Argentine tango orchestra composed of Argentine musicians based in Europe, 
+founded in 2019 to share their culture with the world.  
+They have performed at numerous milongas, concerts, and festivals in Europe and beyond, 
+often sharing the stage with renowned tango dancers. 
+
+- https://sondertango.com/
+- https://www.facebook.com/sondertango
+- https://www.youtube.com/channel/UCmoIYnKVjUmwd9Ifwvpi5tA
 - https://open.spotify.com/artist/27MBaWe61GOM2f4YSMvWVc
   
 
