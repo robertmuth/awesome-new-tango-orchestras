@@ -53,12 +53,14 @@ Combo, Conjunto, Cuarteto, El, Ensemble, La, Los, Orquesta, Quinteto, Sexteto, T
 - [Gente De Tango](#gente-de-tango)
 
 **H**
+
 - [Los Herederos Del Compás]
-- [Hyperion Ensemble]
+- [Hyperion Ensemble](#hyperion-ensemble)
 
 **J**
+
 - [La Juan D’Arienzo]
-- [Javier Fioramonti]
+- [Javier Fioramonti](#javier-fioramonti)
 
 **M**
 
