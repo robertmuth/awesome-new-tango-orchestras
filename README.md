@@ -172,6 +172,7 @@ Combo, Conjunto, Cuarteto, El, Ensemble, La, Los, Orquesta, Quinteto, Sexteto, T
 - Orquesta Típica Ciudad Baigón
 - Orquesta Victoria
 - Noelia Sinkunas
+- Sexteto Mayor 
 
 
 ## Amores Tangos
