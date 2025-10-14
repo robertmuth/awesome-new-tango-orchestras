@@ -170,7 +170,8 @@ Combo, Conjunto, Cuarteto, El, Ensemble, La, Los, Orquesta, Quinteto, Sexteto, T
 - Orquesta Típica Julián Peralta
 - Orquesta Típica El Afronte
 - Orquesta Típica Ciudad Baigón
-- Orquesta Victoria 
+- Orquesta Victoria
+- Noelia Sinkunas
 
 
 ## Amores Tangos
