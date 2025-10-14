@@ -129,11 +129,14 @@ Combo, Conjunto, Cuarteto, El, Ensemble, La, Los, Orquesta, Quinteto, Sexteto, T
 
 ## Orchestras that did not quite pass the golden era style filter
 
-- Melingo
+- Alacran
 - Bailongo!
 - Bajo Fondo
 - Carlos Libedinsky
+- Electrocutango
+- Federico Aubele
 - Gotan Project
+- Melingo
 - Narcotango
 - Otros Aires
 - San Telmo Lounge
