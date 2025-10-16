@@ -12,6 +12,7 @@ Combo, Conjunto, Cuarteto, El, Ensemble, La, Los, Orquesta, Quinteto, Sexteto, T
 
 **A**
 
+- [Orquesta Típica El Afronte](#orquesta-típica-el-afronte)
 - [Amores Tangos](#amores-tangos)
 - [Analia Goldberg](#analia-goldberg)
 - [Orquesta Típica Andariega](#orquesta-típica-andariega)
@@ -31,6 +32,7 @@ Combo, Conjunto, Cuarteto, El, Ensemble, La, Los, Orquesta, Quinteto, Sexteto, T
 **C**
 - [El Caburé](#el-caburé)
 - [El Cachivache](#el-cachivache)
+- [Orquesta Típica Ciudad Baigón](#orquesta-típica-ciudad-baigón)
 - [Collectif Roulotte Tango](#collectif-roulotte-tango)
 - [Color Tango](#color-tango)
 - [Sexteto Cristal](#sexteto-cristal)
@@ -68,6 +70,10 @@ Combo, Conjunto, Cuarteto, El, Ensemble, La, Los, Orquesta, Quinteto, Sexteto, T
 - [Marios Strofalis Quartet](#marios-strofalis-quartet)
 - [Sexteto Milonguero](#sexteto-milonguero)
 - [Orquesta Típica Misteriosa Buenos Aires](#orquesta-típica-misteriosa-buenos-aires)
+
+**N**
+
+- [Quinteto Negro La Boca](#quinteto-negro-la-boca)
 
 **P**
 
@@ -132,17 +138,39 @@ Combo, Conjunto, Cuarteto, El, Ensemble, La, Los, Orquesta, Quinteto, Sexteto, T
 - Alacran
 - Bailongo!
 - Bajo Fondo
+- 
+  https://open.spotify.com/artist/4Wk0MW9d5uu6WbAgRCuH4O
 - Carlos Libedinsky
+- Daniel Melingo
+
+  https://open.spotify.com/artist/08X5fKnU2tkjH4IeLnl8vt
 - Electrocutango
 - Federico Aubele
+
+  https://www.federicoaubele.com/
+  https://open.spotify.com/playlist/4GiSz0wY7fUUl9oLvVDSD8
+  https://soundcloud.com/federicoaubele/sets/my-favorite-tracks
 - Gotan Project
-- Melingo
-- Narcotango
+
+  https://www.gotanproject.com/
+  https://www.youtube.com/channel/UCs2RzWFCRCxCn-0UpKEdabg
+  https://open.spotify.com/artist/44ejFPE33H5aOInxNV2BFP
+- Narcotango (Carlos Libedinsky)
+
+  http://narcotango.com.ar/en/index.html
+  https://open.spotify.com/artist/4QaiDw2kGhHm0JPqZ166D9
 - Otros Aires
+
+  https://www.otrosaires.com/
+  https://open.spotify.com/artist/4V8yy6XGCvl6cy2UihbH2h
 - San Telmo Lounge
 - Tanghetto
+
+  https://en.tanghetto.net/
+  https://www.youtube.com/user/Tanghetto2001
 - Tango Project
 - Tango Jointz
+
   https://open.spotify.com/artist/0yRtf6rV52WnxpCnDFG8En
 
 
@@ -165,18 +193,26 @@ Combo, Conjunto, Cuarteto, El, Ensemble, La, Los, Orquesta, Quinteto, Sexteto, T
 - Schwenkglenks y los gringos del tango
 - Rascasuelos
 - Pequeños Gigantes del Tango 
-- Quinteto Negro La Boca
 - Combo Tango
 - Rogue Tango (https://scottmateo.com/rogue-tango/)
 - The Tango Group
 - Cuarteto Entre Mundos
 - Orquesta Típica Julián Peralta
-- Orquesta Típica El Afronte
-- Orquesta Típica Ciudad Baigón
 - Orquesta Victoria
 - Noelia Sinkunas
 - Sexteto Mayor 
 
+## Orquesta Típica El Afronte
+(Argentina)
+
+"El Afronte Orquesta Típica" transfers the spirit of the dance from tango into the present day, 
+bringing all of the shades and nuances of the tango – from ecstasy and melancholy – into its performances.
+
+The group was founded in 2004, and rapidly went on to make a name for itself in the milonga scene of Buenos Aires. 
+These musicians aren’t content to revel in nostalgia for the past; they are just as keen to bring new developments to the fore.
+
+- https://www.facebook.com/elafronte/
+- https://open.spotify.com/artist/3vjDKAoDf0A5qmmhRO6T6f
 
 ## Amores Tangos
 (Argentina)
@@ -350,6 +386,15 @@ Witty song introductions emerged with the music, livening up already energetic p
 - https://www.youtube.com/channel/UCD3GFnm3hXuD2wnh20attYQ
 - https://open.spotify.com/artist/1WESGlIggKkTGIQO0Z7Jfh
 - https://cachivachetango.bandcamp.com/
+
+## Orquesta Típica Ciudad Baigón
+(Argentina)
+
+TODO: needs more info
+
+- https://www.youtube.com/c/CiudadBaigonOT
+- https://www.facebook.com/CiudadBaigon/
+- https://open.spotify.com/intl-es/artist/4AqPTqlGFbOZseQXCksv57
 
 ## Collectif Roulotte Tango 
 (France)
@@ -571,6 +616,17 @@ tangos clásicos, tangos nuevos, valses, milongas, milongas - candombe y folclor
 - https://www.youtube.com/channel/UCOQYElsfAColqCyscG7L9tQ?view_as=subscriber
 - https://open.spotify.com/artist/0UFC4msCQKBeYGdwD7nUkr
 
+## Quinteto Negro La Boca
+(Argentina)
+
+"Quinteto Negro La Boca" es una agrupación musical surgida en el barrio de La Boca, a mediados de 2008. 
+Nace con la intención de rescatar a través del tango, el patrimonio cultural del barrio rescatando a 
+personajes como Pedro Láurenz y Juan de Dios Filiberto.
+
+- https://www.quintetonegrolaboca.com.ar/
+- https://www.facebook.com/quinteto
+- https://open.spotify.com/artist/5bvLSQv0SB2cD7aWcDB3iR
+- https://www.youtube.com/user/quintetonegro/videos
 
 ## Pablo Valle Sexteto
 (Argentina)
