@@ -48,7 +48,7 @@ Combo, Conjunto, Cuarteto, El, Ensemble, La, Los, Orquesta, Quinteto, Sexteto, T
 - [Orquesta Típica Fernández Fierro](#orquesta-típica-fernández-fierro)
 - [Fernando Serrano](#fernando-serrano)
 - [Forever Tango](#forever-tango)
-- 
+  
 **G**
 
 - [Trio Garufa](#trio-garufa)
@@ -68,6 +68,7 @@ Combo, Conjunto, Cuarteto, El, Ensemble, La, Los, Orquesta, Quinteto, Sexteto, T
 
 - [Mandragora Tango Orchestra](#mandragora-tango-orchestra)
 - [Marios Strofalis Quartet](#marios-strofalis-quartet)
+- [Martes Tango Trio](#martes-tango-trio) 
 - [Sexteto Milonguero](#sexteto-milonguero)
 - [Orquesta Típica Misteriosa Buenos Aires](#orquesta-típica-misteriosa-buenos-aires)
 
@@ -155,6 +156,12 @@ Combo, Conjunto, Cuarteto, El, Ensemble, La, Los, Orquesta, Quinteto, Sexteto, T
   https://www.gotanproject.com/
   https://www.youtube.com/channel/UCs2RzWFCRCxCn-0UpKEdabg
   https://open.spotify.com/artist/44ejFPE33H5aOInxNV2BFP
+- Marios Strofalis Quartet 
+
+  https://www.youtube.com/@MariosStrofalis
+  https://www.facebook.com/p/Marios-Strofalis-100063553390862/
+  https://open.spotify.com/artist/1PSURAzSQH9R4f4Kfy3YIU
+
 - Narcotango (Carlos Libedinsky)
 
   http://narcotango.com.ar/en/index.html
@@ -583,15 +590,14 @@ In 2004 it was hired by Theatre De La Jeune Lune for their highly acclaimed prod
 
 - https://open.spotify.com/artist/6927AljyPM8QhyJOD1kxje
 
-## Marios Strofalis Quartet 
-(Greece)
+## Martes Tango Trio
 
-*TODO: needs more research*
+TODO: needs more info 
 
-- https://www.youtube.com/@MariosStrofalis
-- https://www.facebook.com/p/Marios-Strofalis-100063553390862/
-- https://open.spotify.com/artist/1PSURAzSQH9R4f4Kfy3YIU
-- 
+- https://www.facebook.com/martestangotrio/
+- https://www.youtube.com/martestangotrio
+- https://open.spotify.com/artist/1lRzIvxCHXtxqLE6HwMvZ1
+  
 ## Sexteto Milonguero
 
 Sexteto Milonguero se formó en 2006 por Javier Di Ciriaco (Cantante). Es una de las orquestas de tango más conocidas, 
@@ -784,6 +790,7 @@ SILENCIO consists of musicians from around the world (Argentina, Uruguay, Cuba, 
 
 - http://www.silenciotango.com/
 - https://www.facebook.com/tipicasilencio/
+- https://www.youtube.com/@silenciotango
 
 ## Solo Tango 
 (Russia)
