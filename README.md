@@ -67,7 +67,6 @@ Combo, Conjunto, Cuarteto, El, Ensemble, La, Los, Orquesta, Quinteto, Sexteto, T
 **M**
 
 - [Mandragora Tango Orchestra](#mandragora-tango-orchestra)
-- [Marios Strofalis Quartet](#marios-strofalis-quartet)
 - [Martes Tango Trio](#martes-tango-trio) 
 - [Sexteto Milonguero](#sexteto-milonguero)
 - [Orquesta Típica Misteriosa Buenos Aires](#orquesta-típica-misteriosa-buenos-aires)
