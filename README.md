@@ -314,7 +314,8 @@ Teniendo la esencia de las grandes orquestas de siempre y llevando al corazón d
 AYAHUASCA TANGO es un proyecto que nace en Madrid a finales de 2010. AYAHUASCA, la planta sagrada de los chamanes, es la conexión del yo con su verdadera esencia.
 TANGO, la danza argentina por excelencia, es la conexión de lo masculino y lo femenino, el abrazo de los opuestos del que
 
-- https://ayahuascatango.bandcamp.com/ https://www.tangospleen.com/
+- https://ayahuascatango.bandcamp.com/
+- https://www.tangospleen.com/
 
 ## Band-O-Neon 
 (Austria)
