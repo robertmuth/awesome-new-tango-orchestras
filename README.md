@@ -361,7 +361,6 @@ Conjunto Berretín was formed in 2001 under the direction of bandoneón player, 
 Conjunto Berretín plays tango dance music and can range in configuration from duo to quartet, sextet, nonet and 12-piece orquesta típica.
 
 - https://www.conjuntoberretin.com/
-- https://www.tangoberretin.com/
 - https://tangoberretin.bandcamp.com/
 - https://open.spotify.com/artist/12vM6NrsES5aflXWyPKukO
 - https://open.spotify.com/artist/0c1LMgs4xTZwTyWqqesTdu
