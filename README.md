@@ -180,7 +180,7 @@ Combo, Conjunto, Cuarteto, El, Ensemble, La, Los, Orquesta, Quinteto, Sexteto, T
   https://open.spotify.com/artist/0yRtf6rV52WnxpCnDFG8En
 
 
-### Not yet summarized (pull requests welcome)
+### Not yet organized (pull requests welcome)
 
 - Sandra Rehder (dancable?)
 - Gidon Kremer (dancable?)
@@ -200,13 +200,26 @@ Combo, Conjunto, Cuarteto, El, Ensemble, La, Los, Orquesta, Quinteto, Sexteto, T
 - Rascasuelos
 - Pequeños Gigantes del Tango 
 - Combo Tango
-- Rogue Tango (https://scottmateo.com/rogue-tango/)
+- Rogue Tango
+
+  https://scottmateo.com/rogue-tango/
 - The Tango Group
 - Cuarteto Entre Mundos
 - Orquesta Típica Julián Peralta
 - Orquesta Victoria
 - Noelia Sinkunas
-- Sexteto Mayor 
+- Sexteto Mayor
+- Los Reyes Del Tango
+
+  https://www.youtube.com/@losreyesdeltango5504
+- Orquesta Típica Villa Urquiza
+
+  https://www.facebook.com/orquestatipicavillaurquiza/
+
+- Social Tango
+ 
+  https://open.spotify.com/artist/117GVmc0hLCGuHZnWOX6se
+
 
 ## Orquesta Típica El Afronte
 (Argentina)
