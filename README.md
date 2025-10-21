@@ -316,8 +316,8 @@ Teniendo la esencia de las grandes orquestas de siempre y llevando al corazón d
 AYAHUASCA TANGO es un proyecto que nace en Madrid a finales de 2010. AYAHUASCA, la planta sagrada de los chamanes, es la conexión del yo con su verdadera esencia.
 TANGO, la danza argentina por excelencia, es la conexión de lo masculino y lo femenino, el abrazo de los opuestos del que
 
+- https://web.archive.org/web/20191219141827/http://www.ayahuascatango.org/
 - https://ayahuascatango.bandcamp.com/
-- https://www.tangospleen.com/
 
 ## Band-O-Neon 
 (Austria)
@@ -833,7 +833,14 @@ often sharing the stage with renowned tango dancers.
 - https://open.spotify.com/artist/27MBaWe61GOM2f4YSMvWVc
   
 
+## Tangata Quintet
+(Polish)
 
+*TODO: needs more research*
+
+- https://www.facebook.com/tangata.quintet/
+- https://open.spotify.com/artist/5yKXtTsYNUpidzJ0YaS0bs
+- 
 ## TangoEsta 
 (Turkey)
 
@@ -863,13 +870,7 @@ Tenor Zoltan DiBartolo mixes operatic training with a natural theatricality and 
 - https://open.spotify.com/artist/6Zx5n0HlCb4gnhqvdiv3fW
 - https://play.qobuz.com/artist/6922895
 
-## Tangata Quintet
-(Polish)
 
-*TODO: needs more research*
-
-- https://www.facebook.com/tangata.quintet/
-- https://open.spotify.com/artist/5yKXtTsYNUpidzJ0YaS0bs
 
 ## Tango Bardo 
 (Argentina)
