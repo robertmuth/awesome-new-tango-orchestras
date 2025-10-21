@@ -18,7 +18,6 @@ Combo, Conjunto, Cuarteto, El, Ensemble, La, Los, Orquesta, Quinteto, Sexteto, T
 - [Orquesta Típica Andariega](#orquesta-típica-andariega)
 - [Quinteto Ángel](#quinteto-ángel)
 - [Orquesta El Arranque](#orquesta-el-arranque)
-- [Astillero](#astillero)
 - [Athens Tango Ensemble](#athens-tango-ensemble)
 - [La Auténtica Milonguera](#la-auténtica-milonguera)
 - [Ayahuasca Tango](#ayahuasca-tango)
@@ -136,6 +135,13 @@ Combo, Conjunto, Cuarteto, El, Ensemble, La, Los, Orquesta, Quinteto, Sexteto, T
 ## Orchestras that did not quite pass the golden era style filter
 
 - Alacran
+- Astillero
+
+  https://astillerotango.com.ar/
+  https://open.spotify.com/artist/6H0VSaqaG0soPLJTFcdIQM
+  https://www.youtube.com/@astillerotango
+  https://astillero.bandcamp.com/album/quilombo
+
 - Bailongo!
 - Bajo Fondo
 - 
@@ -280,23 +286,6 @@ Artango
 - https://en.wikipedia.org/wiki/Orquesta_El_Arranque
 - https://open.spotify.com/artist/5EsRO0Vumc48k4pMoC4MWV
 
-
-## Astillero
-(Argentina)
-
-Celebrated as the new tango of Buenos Aires on the most prestigious stages of the world, Astillero reflects the passion, 
-rebellion and fury of a city devastated. From the Argentine crisis of 2001 surged this exceptionally beautiful, 
-sensual and yet rabid music that the BBC proclaimed as “The continuation of Piazzolla, absolutely virtuous, crazy and fantastic”.
-
-The sound of Astillero is forceful, vertiginous, breathtaking, raw yet sophisticated: a rollercoaster ride of throbbing accents 
-modulating into earthshattering pianissimos and beyond. Yet this wild sound is entirely hand-made, free of any gimmicks, 100% acoustic: 
-the sound of just wood and strings, brought to searing life by an acute sense for translating the experience of 21st century urban life 
-into new music, built on a solid traditional foundation of Buenos Aires’ tango.
-
-- https://astillerotango.com.ar/
-- https://open.spotify.com/artist/6H0VSaqaG0soPLJTFcdIQM
-- https://www.youtube.com/@astillerotango
-- https://astillero.bandcamp.com/album/quilombo
 
 ## Athens Tango Ensemble
 (Greece)
