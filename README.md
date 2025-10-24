@@ -135,6 +135,8 @@ Combo, Conjunto, Cuarteto, El, Ensemble, La, Los, Orquesta, Quinteto, Sexteto, T
 ## Orchestras that did not quite pass the golden era style filter
 
 - Alacran
+  
+  https://open.spotify.com/artist/1UDZ1csmVbsTS1JiSMOs2l
 - Astillero
 
   https://astillerotango.com.ar/
@@ -143,14 +145,19 @@ Combo, Conjunto, Cuarteto, El, Ensemble, La, Los, Orquesta, Quinteto, Sexteto, T
   https://astillero.bandcamp.com/album/quilombo
 
 - Bailongo!
-- Bajo Fondo
 - 
+- Bajofondo
+  
   https://open.spotify.com/artist/4Wk0MW9d5uu6WbAgRCuH4O
 - Carlos Libedinsky
 - Daniel Melingo
 
   https://open.spotify.com/artist/08X5fKnU2tkjH4IeLnl8vt
 - Electrocutango
+  
+- Etango
+  
+  https://open.spotify.com/artist/01eCg3wJvTBkYoTEpe2Xo2
 - Federico Aubele
 
   https://www.federicoaubele.com/
@@ -176,6 +183,12 @@ Combo, Conjunto, Cuarteto, El, Ensemble, La, Los, Orquesta, Quinteto, Sexteto, T
   https://www.otrosaires.com/
   https://open.spotify.com/artist/4V8yy6XGCvl6cy2UihbH2h
 - San Telmo Lounge
+  
+  https://open.spotify.com/artist/30HyR7VywzVrsKvpl2vXu4
+
+- Sudestada Tango
+  
+  https://open.spotify.com/artist/3wIDWa1hCa2EFZJKOjgS1S
 - Tanghetto
 
   https://en.tanghetto.net/
@@ -184,7 +197,9 @@ Combo, Conjunto, Cuarteto, El, Ensemble, La, Los, Orquesta, Quinteto, Sexteto, T
 - Tango Jointz
 
   https://open.spotify.com/artist/0yRtf6rV52WnxpCnDFG8En
+- Tangoloco (Daniel Garcia Quinteto) 
 
+  https://open.spotify.com/artist/6kFy4Ql2YEcpaElKcnBGkj
 
 ### Not yet organized (pull requests welcome)
 
