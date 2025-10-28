@@ -99,6 +99,7 @@ Combo, Conjunto, Cuarteto, El, Ensemble, La, Los, Orquesta, Quinteto, Sexteto, T
 - [Sentimental y Canyengue](#sentimental-y-canyengue)
 - [Orquesta Silbando](#orquesta-silbando)
 - [Silencio Tango Orchestra](#silencio-tango-orchestra)
+- [Social Tango Project](#social-tango-project) 
 - [Solo Tango](#solo-tango)
 - [Cuarteto Soltango](#cuarteto-soltango)
 - [Sonder Tango](#sonder-tango)
@@ -236,10 +237,6 @@ Combo, Conjunto, Cuarteto, El, Ensemble, La, Los, Orquesta, Quinteto, Sexteto, T
 - Orquesta Típica Villa Urquiza
 
   https://www.facebook.com/orquestatipicavillaurquiza/
-
-- Social Tango
- 
-  https://open.spotify.com/artist/117GVmc0hLCGuHZnWOX6se
 
 
 ## Orquesta Típica El Afronte
@@ -807,6 +804,16 @@ SILENCIO consists of musicians from around the world (Argentina, Uruguay, Cuba, 
 - http://www.silenciotango.com/
 - https://www.facebook.com/tipicasilencio/
 - https://www.youtube.com/@silenciotango
+
+## Social Tango Project
+(Argentina)
+
+Founded and based in Buenos Aires, Argentina, Social Tango Project’s mission is to share the social value of dance, celebrating the tango community through live performances, music, and film. Under the artistic direction of Agustina Videla, the company provides “a journey into the heart of Tango” ("La Nación Newspaper"), and aims to inspire individuals to join the dance floor and cultivate tango communities worldwide.
+
+- https://socialtangoproject.com/en/
+- https://open.spotify.com/artist/117GVmc0hLCGuHZnWOX6se
+- https://www.facebook.com/SocialTangoProject/
+
 
 ## Solo Tango 
 (Russia)
