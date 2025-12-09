@@ -46,6 +46,7 @@ Combo, Conjunto, Cuarteto, El, Ensemble, La, Los, Orquesta, Quinteto, Sexteto, T
 - [Sexteto Fantasma](#sexteto-fantasma)
 - [Orquesta Típica Fernández Fierro](#orquesta-típica-fernández-fierro)
 - [Fernando Serrano](#fernando-serrano)
+- [Orquesta Tipica Fervor de Buenos Aires](#orquesta-típica-fervor-de-buenos-aires)
 - [Forever Tango](#forever-tango)
   
 **G**
@@ -234,6 +235,8 @@ Combo, Conjunto, Cuarteto, El, Ensemble, La, Los, Orquesta, Quinteto, Sexteto, T
 - Los Reyes Del Tango
 
   https://www.youtube.com/@losreyesdeltango5504
+
+- Sexteto Unitango
 - Orquesta Típica Villa Urquiza
 
   https://www.facebook.com/orquestatipicavillaurquiza/
@@ -462,7 +465,7 @@ The ensemble is based in Hamburg and Berlin (Germany) and connected to famous si
 - https://play.qobuz.com/artist/16978201
 
 ## Orquesta Escuela De Tango
-(Argentinia)
+(Argentina)
 
 La Orquesta Escuela de Tango Emilio Balcarce es una iniciativa pedagógica creada en el 2000, por el Ministerio de Cultura del Gobierno de la Ciudad de Buenos Aires que propicia la reunión de distintas generaciones de músicos y posibilita el acercamiento del legado cultural de los grandes maestros del género a los jóvenes intérpretes. Desde el año 2017, y bajo la dirección artística de Ignacio Varchausky y la dirección musical del maestro Víctor Lavallén, la DGEART tiene el orgullo de contar con la Orquesta Escuela entre sus formaciones.
 
@@ -480,7 +483,7 @@ With a focus on the interpretation of original compositions, the Fabio Hager Sex
 
 
 ## Sexteto Fantasma
-(Argentinia)
+(Argentina)
 
 El Sexteto Fantasma is among the most important orchestras of the new wave of Argentine Tango. Established in the circuit of porteño and European milongas, they are often found playing at the historic La Viruta milonga, as well as at Salón Canning or the mythical Morán popular milonga. The Sexteto Fantasma is based on a particular sound that is provided by its formation. The inclusion of the trumpet (in homage to Canaro, the first to include this sound in a Tango formation) and the jazz guitar provide a unique touch. Their own compositions are recorded by different current groups and danced in countless milongas around the world. Their versions of classic milonguero songs burst onto the dance floor with freshness and a mischievous rhythm.
 
@@ -512,6 +515,15 @@ Artist of Argentine origin. Teacher, Choreographer, Professional Dancer, Musicia
 - https://www.youtube.com/fernandoserrano
 - https://open.spotify.com/artist/4jtMTIQcGR4udvYbub6mfT
 
+## Orquesta Tipica Fervor de Buenos Aires
+(Argentina)
+
+Founded by Javier Arias who has since founded Orquesta Típica Misteriosa Buenos Aires 
+Most likely no longer active.
+
+- https://open.spotify.com/artist/0f6culouhkCgCfFuAdQRGL
+- https://www.deezer.com/us/artist/5291854
+  
 ## Forever Tango
 
 Luis Bravo's Forver Tango is an internationally celebrated entertainment event 
