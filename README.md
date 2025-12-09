@@ -46,7 +46,7 @@ Combo, Conjunto, Cuarteto, El, Ensemble, La, Los, Orquesta, Quinteto, Sexteto, T
 - [Sexteto Fantasma](#sexteto-fantasma)
 - [Orquesta Típica Fernández Fierro](#orquesta-típica-fernández-fierro)
 - [Fernando Serrano](#fernando-serrano)
-- [Orquesta Tipica Fervor de Buenos Aires](#orquesta-típica-fervor-de-buenos-aires)
+- [Orquesta Tipica Fervor de Buenos Aires](#orquesta-tipica-fervor-de-buenos-aires)
 - [Forever Tango](#forever-tango)
   
 **G**
