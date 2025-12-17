@@ -205,6 +205,7 @@ Combo, Conjunto, Cuarteto, El, Ensemble, La, Los, Orquesta, Quinteto, Sexteto, T
 
 ### Not yet organized (pull requests welcome)
 
+- Sexteto Andiamo
 - Sandra Rehder (dancable?)
 - Gidon Kremer (dancable?)
 - Típica Messiez
@@ -221,9 +222,12 @@ Combo, Conjunto, Cuarteto, El, Ensemble, La, Los, Orquesta, Quinteto, Sexteto, T
 - Cuarteto Almagro
 - Schwenkglenks y los gringos del tango
 - Rascasuelos
-- Pequeños Gigantes del Tango 
+- Pequeños Gigantes del Tango
+- Quintet Piazzolleky
+- Sexteto Rayero
 - Combo Tango
 - Rogue Tango
+- Cuarteto Tanguero
 
   https://scottmateo.com/rogue-tango/
 - The Tango Group
