@@ -170,6 +170,8 @@ Combo, Conjunto, Cuarteto, El, Ensemble, La, Los, Orquesta, Quinteto, Sexteto, T
   https://www.gotanproject.com/
   https://www.youtube.com/channel/UCs2RzWFCRCxCn-0UpKEdabg
   https://open.spotify.com/artist/44ejFPE33H5aOInxNV2BFP
+
+- Kantango
 - Marios Strofalis Quartet 
 
   https://www.youtube.com/@MariosStrofalis
