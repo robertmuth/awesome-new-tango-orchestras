@@ -208,6 +208,8 @@ Combo, Conjunto, Cuarteto, El, Ensemble, La, Los, Orquesta, Quinteto, Sexteto, T
 
 ### Not yet organized (pull requests welcome)
 
+- La Orsay
+  https://www.facebook.com/laorsay/
 - Orquesta Villa Crespo
 - Sexteto Andiamo
 - Sandra Rehder (dancable?)
