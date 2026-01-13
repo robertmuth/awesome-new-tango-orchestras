@@ -208,6 +208,7 @@ Combo, Conjunto, Cuarteto, El, Ensemble, La, Los, Orquesta, Quinteto, Sexteto, T
 
 ### Not yet organized (pull requests welcome)
 
+- Orquesta Típica de Angelis
 - La Orsay
   https://www.facebook.com/laorsay/
 - Orquesta Villa Crespo
