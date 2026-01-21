@@ -151,6 +151,7 @@ Combo, Conjunto, Cuarteto, El, Ensemble, La, Los, Orquesta, Quinteto, Sexteto, T
 - Bajofondo
   
   https://open.spotify.com/artist/4Wk0MW9d5uu6WbAgRCuH4O
+- Las Bordonas
 - Carlos Libedinsky
 - Daniel Melingo
 
@@ -208,6 +209,8 @@ Combo, Conjunto, Cuarteto, El, Ensemble, La, Los, Orquesta, Quinteto, Sexteto, T
 
 ### Not yet organized (pull requests welcome)
 
+- 
+- Tanguedad
 - Orquesta Típica de Angelis
 - La Orsay
   https://www.facebook.com/laorsay/
