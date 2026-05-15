@@ -1,23 +1,17 @@
+> [!NOTE]
+> For a table of contents press the button with the three dashes in the upper right corner of this view
+> 
+> If you want to add or fix something in this document, send a pull request or file an issue.
+>
+> Sort order is alphabetical after dropping all words like:
+> Combo, Conjunto, Cuarteto, El, Ensemble, La, Los, Orquesta, Quinteto, Sexteto, The, Típica, Trio, etc. 
+
+
 # Awesome New Tango Orchestras
 
-*For a table of contents press the button with the dashes in the upper right corner of this view*
 
 A collection of Tango Orchestras that had new releases after 
 the year 2000, play music not too far away from the golden era style and cater to dancers.
-
-If you want to add or fix something in this document, send a pull request or file an issue.
-
-## Directory 
-
-Sort order is alphabetical after dropping all words like:
-Combo, Conjunto, Cuarteto, El, Ensemble, La, Los, Orquesta, Quinteto, Sexteto, The, Típica, Trio, etc. 
-
-
-
-
-
-
-
 
 
 ## Orquesta Típica El Afronte
