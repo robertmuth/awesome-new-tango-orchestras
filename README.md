@@ -14,8 +14,7 @@ A collection of Tango Orchestras that had new releases after
 the year 2000, play music not too far away from the golden era style and cater to dancers.
 
 
-## Orquesta Típica El Afronte
-(Argentina)
+### Orquesta Típica El Afronte (Argentina)
 
 "El Afronte Orquesta Típica" transfers the spirit of the dance from tango into the present day, 
 bringing all of the shades and nuances of the tango – from ecstasy and melancholy – into its performances.
@@ -26,16 +25,14 @@ These musicians aren’t content to revel in nostalgia for the past; they are ju
 - https://www.facebook.com/elafronte/
 - https://open.spotify.com/artist/3vjDKAoDf0A5qmmhRO6T6f
 
-## Amores Tangos
-(Argentina)
+### Amores Tangos (Argentina)
 
 Amores was founded in 2008 as a meeting of musicians and friends who, after playing in various orchestras and venues in Buenos Aires, decided to get together and form a band.
 
 - https://amorestangos.com/
 - https://open.spotify.com/artist/2KvUc0BGX9S8Bgsk6hGCtj
 
-## Analia Goldberg
-(Argentina)
+### Analia Goldberg (Argentina)
 
 *TODO: needs more reasearch*
 
@@ -43,8 +40,7 @@ Amores was founded in 2008 as a meeting of musicians and friends who, after play
 - https://analiagoldberg.bandcamp.com/album/analia-goldberg
 - https://open.spotify.com/artist/2PKVqXSxKrJuOuUPplmWzW
 
-## Orquesta Típica Andariega
-(Argentina)
+### Orquesta Típica Andariega (Argentina)
 
 La Orquesta Típica Andariega was created in Buenos Aires September 2009 with the idea of making a new danceable tango based on a solid foundation of classic tango.
 
@@ -54,16 +50,14 @@ The orchestra has a repertoire “bien milonguero” – as we say in Spanish �
 - https://www.andariegatango.com.ar/
 - https://open.spotify.com/artist/6Q70rP7zGBEYwGCeeIlKkF
 
-## Quinteto Ángel
-(Germany)
+### Quinteto Ángel (Germany)
 
 The Quinteto Ángelm founded in 2001, has quickly become one of the most well known German tango ensembles and regularly inspires concert-goers and tango dancers all over Europe. With extraordinary personal commitment, the five performers play music that draws its intensity from the apparent contradiction between sustained melancholy and impetuous pulsating power. With their interpretations of traditional Argentine tangos and compositions by Tango Nuevo protagonist Astor Piazzolla, they prove that tango is alive and kicking in Europe too.
 
 - http://www.quintetoangel.de/index_en.php
 - https://open.spotify.com/artist/1H9d1HxTX9DSvRItpppIbb
 
-## Orquesta El Arranque
-(Argentina)
+### Orquesta El Arranque (Argentina)
 
 Orquesta El Arranque is an Argentine tango orchestra formed in Buenos Aires in 1996.
 Founded by double bassist Ignacio Varchausky and bandoneonist Camilo Ferrero and starting off as a quintet, El Arranque developed a repertoire that was readily embraced by the tango community, and by the end of their first year El Arranque had already performed over 200 shows in Argentine theatres and milongas
@@ -74,8 +68,7 @@ Artango
 - https://open.spotify.com/artist/5EsRO0Vumc48k4pMoC4MWV
 
 
-## Athens Tango Ensemble
-(Greece)
+### Athens Tango Ensemble (Greece)
 
 Athens Tango Ensemble quintet performs musical masterpieces of the ‘Golden Age’ of Argentinian Tango (1935-1955) as well as compositions by Astor Piazzolla. 
 Athens Tango Ensemble first performed in October 2016 and their music has since then been dearly embraced by the Greek audiences. 
@@ -87,8 +80,7 @@ fifteen musical diamonds that originate from the classical era of Tango music (t
 - https://www.facebook.com/athenstangoensemble/
 - https://open.spotify.com/artist/1WiNW6bt21sWCUDltGZ2he
 
-## La Auténtica Milonguera 
-(Argentina)
+### La Auténtica Milonguera (Argentina)
 
 La Autentica Milonguera es un sexteto de Tango que ha llegado para poner nuestra música en lo mas alto. 
 Teniendo la esencia de las grandes orquestas de siempre y llevando al corazón de cada milonguero del mundo todo nuestros sentimientos. 
@@ -97,8 +89,7 @@ Teniendo la esencia de las grandes orquestas de siempre y llevando al corazón d
 - https://open.spotify.com/artist/3K1OdhceUyNpDJ7snvgF0t
 - https://www.youtube.com/laautenticamilonguera
 
-## Ayahuasca Tango
-(Spain)
+### Ayahuasca Tango (Spain)
 
 AYAHUASCA TANGO es un proyecto que nace en Madrid a finales de 2010. AYAHUASCA, la planta sagrada de los chamanes, es la conexión del yo con su verdadera esencia.
 TANGO, la danza argentina por excelencia, es la conexión de lo masculino y lo femenino, el abrazo de los opuestos del que
@@ -106,8 +97,7 @@ TANGO, la danza argentina por excelencia, es la conexión de lo masculino y lo f
 - https://web.archive.org/web/20191219141827/http://www.ayahuascatango.org/
 - https://ayahuascatango.bandcamp.com/
 
-## Band-O-Neon 
-(Austria)
+### Band-O-Neon (Austria)
 
 The first typical tango orchestra of Austria, BAND-O-NEON "Orquesta Típica de Tango" was founded in May 1995. The name of the orchestra is related to the characteristic instrument of the tango, the bandoneon.
 
@@ -116,9 +106,7 @@ The repertory consists of the tangos from the classical period (1880-1917), tran
 - http://www.tango-bandoneon.at/english.htm
 - https://play.qobuz.com/artist/4254636
 
-## Bandonegro 
-
-(Poland)
+### Bandonegro (Poland)
 
 Bandonegro is a world-class tango orchestra, among the most original and recognizable performers of this genre. 
 The ensemble presents traditional Argentine tango, tango nuevo, and creates its own compositions with elements of jazz. 
@@ -132,8 +120,7 @@ Their extraordinary passion, fresh sound, and unique style that is perfect for d
 - https://open.spotify.com/artist/5Rpff7DPog7AbFLdMmisUy
 - https://www.youtube.com/bandonegro
 
-## Beata Söderberg 
-(Sweden)
+### Beata Söderberg (Sweden)
 
 Beata is a composer, librettist and cellist, best known for her tango-inspired works. Among other things, 
 she has been nominated for an Argentine Grammy - Los Premios Carlos Gardel.
@@ -142,10 +129,9 @@ she has been nominated for an Argentine Grammy - Los Premios Carlos Gardel.
 https://open.spotify.com/artist/2gYwILCBn0w1XG4V8mCZW0
 
 
-## Conjunto Berretin
+### Conjunto Berretin (USA)
 
 aka The Alex Krebs Tango Sextet, The Alex Krebs Tango Quartet, Yango Berretin
-(USA)
 
 Conjunto Berretín was formed in 2001 under the direction of bandoneón player, Alex Krebs, in Portland, Oregon.
 Conjunto Berretín plays tango dance music and can range in configuration from duo to quartet, sextet, nonet and 12-piece orquesta típica.
@@ -157,7 +143,7 @@ Conjunto Berretín plays tango dance music and can range in configuration from d
 - https://open.spotify.com/artist/5n0x3PuJ4hXqmLOB0Nq9lg
 
   
-## El Caburé
+### El Caburé (Argentina)
 
 El grupo intenta seguir la línea de formaciones como el sexteto de los hermanos De Caro o más cercano en el tiempo al Quinteto Real,
 bajo la dirección del maestro Horacio Salgán, dando énfasis en la distribución de la melodía por todos los instrumentos de la agrupación, en este caso un cuarteto.
@@ -166,8 +152,7 @@ bajo la dirección del maestro Horacio Salgán, dando énfasis en la distribuci�
 - https://soundcloud.com/elcabure
 - https://play.qobuz.com/artist/4823573
 
-## El Cachivache
-(Argentina)
+### El Cachivache (Argentina)
 
 El Cachivache is a statement, an electric scream from Buenos Aires, blending tango tradition with the urgency of punk and the pulse of electronica.
 
@@ -182,8 +167,7 @@ Witty song introductions emerged with the music, livening up already energetic p
 - https://open.spotify.com/artist/1WESGlIggKkTGIQO0Z7Jfh
 - https://cachivachetango.bandcamp.com/
 
-## Orquesta Típica Ciudad Baigón
-(Argentina)
+### Orquesta Típica Ciudad Baigón (Argentina)
 
 TODO: needs more info
 
@@ -191,8 +175,7 @@ TODO: needs more info
 - https://www.facebook.com/CiudadBaigon/
 - https://open.spotify.com/intl-es/artist/4AqPTqlGFbOZseQXCksv57
 
-## Collectif Roulotte Tango 
-(France)
+### Collectif Roulotte Tango (France)
 
 Founded in 2002 by Julien Blondel, the Roulotte Tango collective explores the music of the Rio de la Plata 
 to share with the public a captivating dialogue between sounds and bodies.
@@ -205,8 +188,7 @@ It produces musical ensembles dedicated to different repertoires, as well as sho
 - https://www.youtube.com/@gasparpocai5005
 - https://open.spotify.com/artist/5ygE1Z1SCLCQThYI796TKg
 
-## Color Tango
-(Argentina)
+### Color Tango (Argentina)
 
 The orchestra COLOR TANGO is, since 1990, one of the key figures of the tango scene. 
 From its beginnings and uninterruptedly, has performed in the most important theatres and tango festivals worldwide and has received numerous awards.
@@ -218,9 +200,7 @@ Their repertoire consists of own compositions and arrangements, plus interpretat
 - https://www.youtube.com/@colortango
 - https://open.spotify.com/artist/4WvXA5VQLyXOKCcu3rMa1w
 
-## Sexteto Cristal  
-(Germany)
-
+### Sexteto Cristal (Germany)
 
 Sexteto Cristal keeps the beautiful sound of almost forgotten musical tradition of tango alive. 
 The desire of tangueros for the danceable "classics" of all time was the first inspiration and 
@@ -236,15 +216,14 @@ The ensemble is based in Hamburg and Berlin (Germany) and connected to famous si
 - https://www.youtube.com/@tangoconbrio
 - https://play.qobuz.com/artist/16978201
 
-## Orquesta Escuela De Tango
-(Argentina)
+### Orquesta Escuela De Tango (Argentina)
 
 La Orquesta Escuela de Tango Emilio Balcarce es una iniciativa pedagógica creada en el 2000, por el Ministerio de Cultura del Gobierno de la Ciudad de Buenos Aires que propicia la reunión de distintas generaciones de músicos y posibilita el acercamiento del legado cultural de los grandes maestros del género a los jóvenes intérpretes. Desde el año 2017, y bajo la dirección artística de Ignacio Varchausky y la dirección musical del maestro Víctor Lavallén, la DGEART tiene el orgullo de contar con la Orquesta Escuela entre sus formaciones.
 
 - https://www.youtube.com/@orquestaescueladetangoemil1111
 - https://open.spotify.com/artist/74jNjqtTPX0TDvWws6SQfl
 
-## Fabio Hager Sexteto
+### Fabio Hager Sexteto (Argentina)
 
 With a focus on the interpretation of original compositions, the Fabio Hager Sexteto has been consolidated with a new generation of tangos that leaves no one indifferent.
 
@@ -254,8 +233,7 @@ With a focus on the interpretation of original compositions, the Fabio Hager Sex
 - https://open.spotify.com/artist/4skLzkqwZrii2PDg9N2OM7
 
 
-## Sexteto Fantasma
-(Argentina)
+### Sexteto Fantasma (Argentina)
 
 El Sexteto Fantasma is among the most important orchestras of the new wave of Argentine Tango. Established in the circuit of porteño and European milongas, they are often found playing at the historic La Viruta milonga, as well as at Salón Canning or the mythical Morán popular milonga. The Sexteto Fantasma is based on a particular sound that is provided by its formation. The inclusion of the trumpet (in homage to Canaro, the first to include this sound in a Tango formation) and the jazz guitar provide a unique touch. Their own compositions are recorded by different current groups and danced in countless milongas around the world. Their versions of classic milonguero songs burst onto the dance floor with freshness and a mischievous rhythm.
 
@@ -267,7 +245,7 @@ The orchestra was born in 2012 as part of the project to carry out a milonga, wh
 - https://sextetofantasma.bandcamp.com/
 - https://open.spotify.com/artist/2zf43gzQKxQeZ4fYfWvR7z
   
-## Orquesta Típica Fernández Fierro
+### Orquesta Típica Fernández Fierro
 
 Nacida en 2001, Fernández Fierro ha revolucionado la escena del tango con su violenta sonoridad y puesta en escena, así como por el inédito proyecto colectivo que llevan adelante
 
@@ -278,7 +256,7 @@ Nacida en 2001, Fernández Fierro ha revolucionado la escena del tango con su vi
 - https://play.qobuz.com/artist/3377825
 - https://www.youtube.com/@FERNANDEZFIERROCanalOficial
 
-## Fernando Serrano
+### Fernando Serrano
 
 Artist of Argentine origin. Teacher, Choreographer, Professional Dancer, Musician and Producer. He travels intensely and divides his life between Argentina and Italy where he directs the Tango Allegria Cultural Association dedicated to Spreading Argentine Culture in the World.
 
@@ -287,8 +265,7 @@ Artist of Argentine origin. Teacher, Choreographer, Professional Dancer, Musicia
 - https://www.youtube.com/fernandoserrano
 - https://open.spotify.com/artist/4jtMTIQcGR4udvYbub6mfT
 
-## Orquesta Tipica Fervor de Buenos Aires
-(Argentina)
+### Orquesta Tipica Fervor de Buenos Aires (Argentina)
 
 Founded by Javier Arias who has since founded Orquesta Típica Misteriosa Buenos Aires 
 Most likely no longer active.
@@ -296,7 +273,7 @@ Most likely no longer active.
 - https://open.spotify.com/artist/0f6culouhkCgCfFuAdQRGL
 - https://www.deezer.com/us/artist/5291854
   
-## Forever Tango
+### Forever Tango
 
 Luis Bravo's Forver Tango is an internationally celebrated entertainment event 
 that has played to great acclaim in Europe, Canada, Asia, Mexico and throughout the United States, 
@@ -308,7 +285,7 @@ and most recently enjoyed its third run on Broadway
 - https://open.spotify.com/artist/0ELSlay7kDrWGVxVUOfrLD
 - https://play.qobuz.com/artist/16686858
 
-## Trio Garufa
+### Trio Garufa
 
 Trio Garufa is an international ensemble dedicated to performing authentic Argentine music. 
 They have performed across Argentina, Colombia, Europe, Canada and the US at venues such as Yoshi’s Jazz Club, Chicago Symphony Hall, 
@@ -322,8 +299,7 @@ The group includes Guillermo García, guitar (Argentina) Adrian Jost, bandoneon 
 - https://www.facebook.com/TrioGarufa/
 - https://open.spotify.com/artist/4sa75tSPwcmeaW7etc30SN
 
-## Gente De Tango
-(Aregentina)
+### Gente De Tango (Argentina)
 
 During 1981, a group of amateur musicians with a common passion for tango began practicing together. 
 They formed to interpret the renowned style of Carlos Di Sarli and became the Orquesta Tipica Gente de Tango. 
@@ -335,8 +311,7 @@ thanks to the dedication of Enrique Seone, one of two founding members.
 - https://soundcloud.com/gentedetangoofficial
 
 
-## Los Herederos Del Compás 
-(Argentina)
+### Los Herederos Del Compás (Argentina)
 
 Since its inception in 2009, Los Herederos del Compás orchestra is one of the most recognized in tango. 
 They build their musical career with international success. continuing the style of Juan D'Arienzo, king of rhythm, king of the milonga.
@@ -345,8 +320,7 @@ They build their musical career with international success. continuing the style
 - https://www.facebook.com/losherederosdelcompas/
 - https://www.youtube.com/user/herederosdelcompas
 
-## Hyperion Ensemble 
-(Italy)
+### Hyperion Ensemble (Italy)
 
 Hyperion Ensemble was founded in 1992 and is passionate about contemporary music, particularly the works of Piazzolla and Traditional Tango music. 
 Over the past 30 years, the ensemble has performed in more than 1200 shows, festivals, and theaters across Europe, Asia, and America,
@@ -357,17 +331,14 @@ Additionally, the ensemble has performed in historical milongas in Buenos Aires 
 
 - http://www.ensemblehyperion.it/
 
-## La Juan D’Arienzo 
-(Argentina)
+### La Juan D’Arienzo (Argentina)
 
 Founded in 2012 to recreate the famous Tango style of "El rey del Compás".
 
 - https://www.lajuandarienzo.com/en/home-english/
 - https://www.facebook.com/LaJuanDarienzotango/
 
-
-## Javier Fioramonti
-(Argentina)
+### Javier Fioramonti (Argentina)
 
 Javier Fioramonti, born in Santa Fe, Argentina, studied guitar at the National School of Music of Rosario, 
 studied harmony and composition with Lucho Gonzalez (Mercedes Sosa, Chabuca Granda) and later joined his teaching team, 
@@ -377,8 +348,7 @@ doing (amongst other studies) the Berklee College of Music summer courses in Bue
 - https://open.spotify.com/search/Javier%20Fioramonti
 
 
-## Mandragora Tango Orchestra
-(USA)
+### Mandragora Tango Orchestra (USA)
 
 The "mandragora" is the mandrake root, which grows in Argentina. 
 The group is a quartet (bandoneon/accordian, violin, bass and guitar) that adores the music of Astor Piazzolla but committed to being a dance band, as well. 
@@ -387,7 +357,7 @@ In 2004 it was hired by Theatre De La Jeune Lune for their highly acclaimed prod
 
 - https://open.spotify.com/artist/6927AljyPM8QhyJOD1kxje
 
-## Martes Tango Trio
+### Martes Tango Trio
 
 TODO: needs more info 
 
@@ -395,7 +365,7 @@ TODO: needs more info
 - https://www.youtube.com/martestangotrio
 - https://open.spotify.com/artist/1lRzIvxCHXtxqLE6HwMvZ1
   
-## Sexteto Milonguero
+### Sexteto Milonguero
 
 Sexteto Milonguero se formó en 2006 por Javier Di Ciriaco (Cantante). Es una de las orquestas de tango más conocidas, 
 que ha viajado por casi todo el mundo, con una personalidad única e inconfundible.
@@ -406,8 +376,7 @@ El estilo del grupo, tiene un comienzo, en esencia, bailable. Y a lo largo de lo
 - https://open.spotify.com/artist/30D3R1VEr9c8imrHOlKJuE
 - https://www.youtube.com/@sextetomilonguero
 
-## Orquesta Típica Misteriosa Buenos Aires
-(Argentina)
+### Orquesta Típica Misteriosa Buenos Aires (Argentina)
 
 La Orquesta Típica Misteriosa Buenos Aires, nace en el año 2008, como una propuesta musical renovadora del tango bailable; 
 retomando el legado de las grandes orquestas del 40, su repertorio es variado y dinámico, y abarca
@@ -419,8 +388,7 @@ tangos clásicos, tangos nuevos, valses, milongas, milongas - candombe y folclor
 - https://www.youtube.com/channel/UCOQYElsfAColqCyscG7L9tQ?view_as=subscriber
 - https://open.spotify.com/artist/0UFC4msCQKBeYGdwD7nUkr
 
-## Quinteto Negro La Boca
-(Argentina)
+### Quinteto Negro La Boca (Argentina)
 
 "Quinteto Negro La Boca" es una agrupación musical surgida en el barrio de La Boca, a mediados de 2008. 
 Nace con la intención de rescatar a través del tango, el patrimonio cultural del barrio rescatando a 
@@ -431,23 +399,21 @@ personajes como Pedro Láurenz y Juan de Dios Filiberto.
 - https://open.spotify.com/artist/5bvLSQv0SB2cD7aWcDB3iR
 - https://www.youtube.com/user/quintetonegro/videos
 
-## Pablo Valle Sexteto
-(Argentina)
+### Pablo Valle Sexteto (Argentina)
 
 Sexteto de Tango que recrea a los más importantes orquestas del 40' y trae 
 nuevas melodías a la escena actual.
 
 - https://pablovallesextetosiempretango.bandcamp.com/
 - https://open.spotify.com/artist/3DGi8WEf7yB96AAMk0gBsd
-## Trio Pantango
-(Argentina)
+
+### Trio Pantango (Argentina)
 
 *needs more research*
 
 - https://open.spotify.com/artist/6HSAkTcIxONn1hAVKQqcH4
 
-## Orquesta Típica Pichuco
-(Argentina)
+### Orquesta Típica Pichuco (Argentina)
 
 La Orquesta Típica "Pichuco" busca recrear y poner en escena, el estilo de la gran "Orquesta Típica de Aníbal Troilo".
 
@@ -455,8 +421,7 @@ La Orquesta Típica "Pichuco" busca recrear y poner en escena, el estilo de la g
 - https://www.youtube.com/@orquestatipicapichuco6281
 - https://open.spotify.com/artist/6yUKbGcBtFzyGWRbiaxrhH
 
-## Quartango 
-(Canada)
+### Quartango (Canada)
 
 When four classically trained musicians come together to explore their passion for tango, the result is nothing short of delightful. 
 Quartango takes tango in new directions, with impeccable arrangements, subtle and unexpected allusions to classical music, 
@@ -467,8 +432,7 @@ and also explores other genres from jazz and ragtime to waltzes and Celtic jigs 
 - https://justin-time.com/collections/quartango
 - https://open.spotify.com/artist/17uwsro5DX00QT8g9rr3gL
 
-## Quintango
-(USA)
+### Quintango (USA)
 
 QuinTango's musicians are top-notch classically-trained instrumentalists whose distinctive "contemporary chamber tango" style blends intimacy and bravado with passion and precision. 
 Equally at home on concert stages or in classrooms, QuinTango reimagines tango classics, shares their deeply personal originals, and treats audiences to tango-inflected versions of familiar ballads. From the White House to Buenos Aires, from festivals in Europe to classrooms in Appalachia, QuinTango's music and personal narratives make lasting connections with every performance. 
@@ -479,8 +443,7 @@ Powered by passion, they are connecting the world one tango at a time.
 - https://www.youtube.com/@QuinTango
 - https://open.spotify.com/artist/3bp7MrcE5aBmWNCo8NlwdP
 
-## Los Reyes del Tango
-(Argentina)
+### Los Reyes del Tango (Argentina)
 
 An orchestra of tango veterans. Most of them were born in the 1930's and played in famous tango 
 orchestras of the 1950's.
@@ -488,8 +451,7 @@ orchestras of the 1950's.
 - https://play.qobuz.com/artist/4162168
 - https://open.spotify.com/artist/2RLkYpf2Crd4uGcCpS2UuD
 
-## Romantica Milonguera 
-(Argentina)
+### Romantica Milonguera (Argentina)
 
 Das 10-köpfige Orchester wurde unter anderem durch seine witzigen Musikvideos bekannt und gilt als das vermutlich angesagteste Tango-Orchester Argentiniens, wenn nicht der ganzen Welt. Bei der jungen Formation aus Buenos Aires wird der Tango Argentino romantisch.
 
@@ -501,8 +463,7 @@ Wunderbar tanzbar, perfekte Musiker, interessante Arrangements, goldene Stimmen!
 - https://romanticamilonguera.bandcamp.com/
 - https://open.spotify.com/artist/2yN99QuwGDm319KHi1aSeY
 
-## Cuarteto Rotterdam
-(Europe)
+### Cuarteto Rotterdam (Europe)
 
 Brought into being in 2004, the ensemble was named after its birthplace in the Netherlands, where, at that time, the three founding members, Michael Dolak, Susanne Cordula Welsch and Judy Ruks, were studying tango at the Rotterdam Academy for World Music. 2007 they moved together to Germany. Nowadays they are living in Berlin, Stuttgart and Paris.
 
@@ -517,9 +478,7 @@ The quartet’s classic structure, consisting of bandoneón, violin, piano and d
 - https://cuarteto-rotterdam.bandcamp.com/
 - https://open.spotify.com/artist/4Py5zxpgnXa49ooER8KuGN
 
-
-## Orquesta Típica San Juan
-(Argentina)
+### Orquesta Típica San Juan (Argentina)
 
 Orquesta Típica de Tango argentino dirigida por el Maestro Esteban Calderón
 San Juan - Argentina, nacida en 2012.
@@ -527,8 +486,7 @@ San Juan - Argentina, nacida en 2012.
 - https://www.facebook.com/orquestatipicasanjuan/
 - https://open.spotify.com/artist/260ML74c43S0bVWxOdvpma
 
-## Orquesta Típica Sans Souci
-(Argentina)
+### Orquesta Típica Sans Souci (Argentina)
 
 The Orquesta Típica Sans Souci was created in 1998 in Buenos Aires with the specific purpose of rescuing 
 for today’s audience the musical style of Miguel Caló and Osmar Maderna’s typical orchestras.
@@ -550,8 +508,7 @@ displaying a fierce passion for music and obvious talent.
 - https://www.facebook.com/lasantacalavera/
 
 
-## Sentimental y Canyengue
-(Argentina)
+### Sentimental y Canyengue (Argentina)
 
 Sentimental y Canyengue es una orquesta típica que revive con precisión y pasión 
 los sonidos del tango tradicional de los años 40. 
@@ -563,8 +520,7 @@ Con una dedicación a la recreación histórica de los estilos que definieron es
 - https://www.youtube.com/@sentimentalycanyengue
 
 
-## Orquesta Silbando
-(France)
+### Orquesta Silbando (France)
 
 Formé en 2010, l’orchestre Silbando est un des ensembles de Tango Argentin les plus demandés en Europe. 
 Basé à Paris, il est né lors du prestigieux stage d’orchestre tango du festival de Tarbes, 
@@ -578,8 +534,7 @@ Silbando se dédie à promouvoir et apporter une nouvelle identité au tango d'h
 - https://orquestasilbando.bandcamp.com/
 - https://open.spotify.com/artist/6lHGHB9uhwl7f72FmGTxip
 
-## Silencio Tango Orchestra 
-(Europe)
+### Silencio Tango Orchestra (Europe)
 
 The international Tango Orchestra "SILENCIO" was founded 2001 in Europe. After just a few years, the group quickly gained a great reputation playing at tango festivals throughout Europe and is now one of the most famous tango orchestras founded on the European continent, performing in its beginnings together with the beloved bandoneonist Alfredo Marcucci.
 The profound quality of SILENCIO has been inspired by very pure styles from Carlos Di Sarli, Roberto Biagi to Alfredo Gobbi: the bases of Silencio's authentic sound. The group has developed its own and very personal sound, performing for more than 10 years together.
@@ -599,8 +554,7 @@ Founded and based in Buenos Aires, Argentina, Social Tango Project’s mission i
 - https://www.facebook.com/SocialTangoProject/
 
 
-## Solo Tango 
-(Russia)
+### Solo Tango (Russia)
 
 Solo Tango is a Russian tango orchestra that conquered the world’s Tango Olympus. 
 The band was founded in the summer of 2010 and in incredibly short time has gained international recognition.
@@ -613,8 +567,7 @@ It is the only European tango-orchestra that was nominated to the First internat
 - https://www.facebook.com/SoloTangoOrquesta/
 - https://www.youtube.com/c/SoloTangoOrquesta
 
-## Cuarteto Soltango
-(Germany)
+### Cuarteto Soltango (Germany)
 
 Since it was founded in 2008, the quartet was invited to perform repeatedly at the music festivals of Schleswig-Holstein and Oberstdorf, 
 thereby launching their musical brand at outstanding classical venues. Since then, the four have played at a number of 
@@ -625,8 +578,7 @@ international festivals – most recently at the innovative Grachtenfestival in 
 - https://www.youtube.com/channel/UCMspdxd8s5hBTElghnLeIcQ
 - https://open.spotify.com/artist/2nAI0fe0pCeiovwQUDB6Rg
 
-## Sonder Tango
-(Italy, Argentina)
+### Sonder Tango (Italy, Argentina)
 
 Sonder Tango is an Argentine tango orchestra composed of Argentine musicians based in Europe, 
 founded in 2019 to share their culture with the world.  
@@ -639,16 +591,14 @@ often sharing the stage with renowned tango dancers.
 - https://open.spotify.com/artist/27MBaWe61GOM2f4YSMvWVc
   
 
-## Tangata Quintet
-(Polish)
+### Tangata Quintet (Polish)
 
 *TODO: needs more research*
 
 - https://www.facebook.com/tangata.quintet/
 - https://open.spotify.com/artist/5yKXtTsYNUpidzJ0YaS0bs
 - 
-## TangoEsta 
-(Turkey)
+### TangoEsta (Turkey)
 
 TangEsta (aka Tangueros de Estambul) is a typical tango orchestra that plays tangos mostly 
 from the Golden Era of Argentinian Tango in their original styles. 
@@ -661,8 +611,7 @@ the band became a professional tango orchestra that is able to play different st
 - https://www.youtube.com/channel/UCIP8MzjXEwMZ2GPexDCPQ8A
 - https://www.facebook.com/Tangesta
 
-## Tango No. 9 
-(USA)
+### Tango No. 9 (USA)
 
 Tango No. 9 explores tango music in all its myriad manifestations — traditional dance music, 
 vocal ballads, tango nuevo, and more recent compositions — bringing an idiosyncratic twist to each. 
@@ -678,8 +627,7 @@ Tenor Zoltan DiBartolo mixes operatic training with a natural theatricality and 
 
 
 
-## Tango Bardo 
-(Argentina)
+### Tango Bardo (Argentina)
 
 Formado en el año 2014, participo en el musical  "Chantecler" , donde se presentaron en Paris, Tokio y en la calle Corrientes en Buenos Aires , en los teatros Alvear, Opera y Astral. 
 Como cuarteto milonguero debutaron en La Viruta, y rápidamente se volvio una de las orquestas favoritas del ambiente. A su vez empezaron a recorrer milongas en el interior de Argentina,  Uruguay, Chile y Brasil. 
@@ -692,8 +640,7 @@ Cuenta con mucaqs versiones bailadas por varios  campeones mundiales de Tango. P
 - https://www.facebook.com/tangobardo
 
 
-## Tango Extremo 
-(Netherlands)
+### Tango Extremo (Netherlands)
 
 Tango Extremo brings a distinctive flavour to the passion and persuasion of the Argentine tango. Since its inception in 2003, the ensemble has made remarkable development, making a big impression on both the Dutch as well as the foreign stages.
 
@@ -705,8 +652,9 @@ Note: there is also an argentinian band named Quinteto Tango Extremo
 - https://open.spotify.com/artist/3Z0WmsXVicUUP0UBIyule1
 - https://play.qobuz.com/artist/6922821
 
-## Tango Sin Fin 
-(aka Orquesta Sin Fin?, Argemtina)
+### Tango Sin Fin (Argemtina)
+
+aka Orquesta Sin Fin?
 
 Tango Sin Fin is a non-profit organization based in Buenos Aires, Argentina, dedicated to the dissemination and promotion of Argentine music. 
 Tango Sin Fin works in collaboration with various institutions in Argentina and 
@@ -718,8 +666,7 @@ in different countries of the world, generating activities of formation and prom
 
 
 
-## Tango Spleen Orquesta
-(Italy)
+### Tango Spleen Orquesta (Italy)
 
 Founded in 2008 in Italy by Argentine musician Mariano Speranza, Tango Spleen Orquesta has become a 
 well-established ensemble that, over the years, has welcomed numerous artists and 
@@ -732,8 +679,7 @@ Through its constant artistic dedication, the orchestra has achieved significant
 - https://open.spotify.com/artist/2zdYxQEfMoMsj8rzcdBKo6
 
 
-## Tangorra Orquesta Atípica 
-(Argentina)
+### Tangorra Orquesta Atípica  (Argentina)
 
 Hace 15 años que Mikele y Fran Borra crearon Tangorra. Desde sus inicios, la idea de crear un tango contemporáneo, actual y urbano fue buscando sus formas, explorando caminos y abriéndose paso entre los colores del techno alemán, el aprendizaje y la búsqueda de melodías propias y profundas inspiradas en el Tango atemporal, las quejas de bandoneón, y los diferentes elementos que dan forma a su música.
 
@@ -743,8 +689,7 @@ A largo de este recorrido hermoso, fueron sumándose músicos, amigos, colegas q
 - https://open.spotify.com/artist/1unG1U4u7iTKsQv8fKmRSG
 
 
-## Orquesta Típica Tanturi 
-(Argentina)
+### Orquesta Típica Tanturi (Argentina)
 
 
 Bajo la invocación, mas tanguera imposible, de la figura del maestro Ricardo Tanturi, La Típica Tanturi se introduce en el repertorio del Tango esencial y auténtico. En momentos  en el que muchos artistas jóvenes ingresan al tango en una búsqueda que mira hacia afuera del tango, los músicos de "la Tanturi" dirigen sus miradas hacia adentro, buscando, indagando y hasta jugando con soltura en las raíces mismas del genero. Cuanto valor tiene esta busqueda....! Desde Cantando Tangos felices de invitarlos a un encuentro con el tango posta... de La Típica Tanturi
@@ -752,8 +697,7 @@ Bajo la invocación, mas tanguera imposible, de la figura del maestro Ricardo Ta
 - https://orquestatpicatanturi.bandcamp.com/
 - https://open.spotify.com/artist/4PbAW8fUGEcgommwTTN27m'
 
-
-## Orquesta Típica La Vidú
+### Orquesta Típica La Vidú
 
 La Orquesta Típica La Vidú se formó en el año 2005 con el anhelo de darle vida y continuidad al género, reafirmando la condición barrial del origen orillero del tango. Interpreta temas clásicos con arreglos propios y nutren el género con composiciones originales.
 
@@ -761,12 +705,14 @@ La Orquesta Típica La Vidú se formó en el año 2005 con el anhelo de darle vi
 - https://open.spotify.com/artist/7LGT8ydQZ969RUbzBNJbAQ
 - https://www.youtube.com/channel/UCSspVllRPy4lCejlPtR_AYg
 
-## Sexteto Visceral
+### Sexteto Visceral
 
 "Our tango orchestra was formed in early 2011. We chose the tango because we consider it the most representative music of the portègne culture, and we think it is fundamental to form groups of young musicians, which promote new and current stylistic research to continue this tradition of more than a century, while renewing the style, sound and artistic proposals. Our aim is to communicate with the tanguero public and attract new listeners who are not used to the style or who consider it obsolete, offering them an identity closer to the current codes of music and modern art."
 
 - https://www.youtube.com/channel/UCu8YWGiR9c0GIBqdl5C2fhw
 - https://open.spotify.com/artist/5OyqRQZbRb8r3TGDGf6X8C
+
+
 
 ## Orchestras that did not quite pass the recent release filter
 
