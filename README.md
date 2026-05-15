@@ -497,7 +497,7 @@ and plays weekly shows in Buenos Aires in the most popular milongas of the city.
 - https://www.youtube.com/channel/UCJ8JMWi9-VvWXLI0N-xTgPg
 - https://open.spotify.com/artist/1YTLg92OLJ8MpfA1tJEftF
 
-## La Santa Calavera
+### La Santa Calavera
 (Argentina)
 
 La Santa Calavera is a band from Buenos Aires, Argentina, who is profoundly anchored in the enthralling subgenre of Tango. 
@@ -544,7 +544,7 @@ SILENCIO consists of musicians from around the world (Argentina, Uruguay, Cuba, 
 - https://www.facebook.com/tipicasilencio/
 - https://www.youtube.com/@silenciotango
 
-## Social Tango Project
+### Social Tango Project
 (Argentina)
 
 Founded and based in Buenos Aires, Argentina, Social Tango Project’s mission is to share the social value of dance, celebrating the tango community through live performances, music, and film. Under the artistic direction of Agustina Videla, the company provides “a journey into the heart of Tango” ("La Nación Newspaper"), and aims to inspire individuals to join the dance floor and cultivate tango communities worldwide.
@@ -838,6 +838,10 @@ La Orquesta Típica La Vidú se formó en el año 2005 con el anhelo de darle vi
   
 ### Dúo Fuertes Varnerín
 
+### Gidon Kremer 
+
+dancable?
+
 ### Orquesta Típica Julián Peralta
 ### Sexteto Mayor
 ### Típica Messiez
@@ -862,13 +866,13 @@ La Orquesta Típica La Vidú se formó en el año 2005 con el anhelo de darle vi
 
 ### Sexteto Rayero
 
-### Los Reyes Del Tango
-
-- https://www.youtube.com/@losreyesdeltango5504
-
 ### Rogue Tango
 
 - https://scottmateo.com/rogue-tango/
+
+### Sandra Rehder 
+
+dancable?
 
 ### Schwenkglenks y los gringos del tango
 
@@ -890,8 +894,6 @@ La Orquesta Típica La Vidú se formó en el año 2005 con el anhelo de darle vi
 
 - https://www.facebook.com/orquestatipicavillaurquiza/ 
 
-- Sandra Rehder (dancable?)
-- Gidon Kremer (dancable?)
 
 ### Viviana Guzman & Anibal Corniglio (flute heavy)
 
