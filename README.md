@@ -18,56 +18,7 @@ Combo, Conjunto, Cuarteto, El, Ensemble, La, Los, Orquesta, Quinteto, Sexteto, T
 
 
 
-### Not yet organized (pull requests welcome)
 
-- 
-- Tanguedad
-- Orquesta Típica de Angelis
-- La Orsay
-  https://www.facebook.com/laorsay/
-- Orquesta Villa Crespo
-- Sexteto Andiamo
-- Sandra Rehder (dancable?)
-- Gidon Kremer (dancable?)
-- Típica Messiez
-- Los Milonguitas
-- Neotango
-- Los Muchachos De Antes
-- Cuarteto Mulenga
-- Sexteto Obsesión Tango
-- Diego Schissi
-- Underfloor
-- Bassa (Berlin?)
-- Viviana Guzman & Anibal Corniglio (flute heavy)
-- Dúo Fuertes Varnerín
-- Cuarteto Almagro
-- Schwenkglenks y los gringos del tango
-- Rascasuelos
-- Pequeños Gigantes del Tango
-- Quintet Piazzolleky
-- Sexteto Rayero
-- Combo Tango
-- Rogue Tango
-- Cuarteto Tanguero
-
-  https://scottmateo.com/rogue-tango/
-- The Tango Group
-- Cuarteto Entre Mundos
-- Orquesta Típica Julián Peralta
-- Orquesta Victoria
-- Noelia Sinkunas
-- Sexteto Mayor
-- Los Reyes Del Tango
-
-  https://www.youtube.com/@losreyesdeltango5504
-
-- Sexteto Unitango
-- Orquesta Típica Villa Urquiza
-
-  https://www.facebook.com/orquestatipicavillaurquiza/
-- Orquesta Típica Esquina Sur
-
-  https://orquestaesquinasur.bandcamp.com/
 
 ## Orquesta Típica El Afronte
 (Argentina)
@@ -927,3 +878,89 @@ La Orquesta Típica La Vidú se formó en el año 2005 con el anhelo de darle vi
 ### Tangoloco (Daniel Garcia Quinteto) 
 
 - https://open.spotify.com/artist/6kFy4Ql2YEcpaElKcnBGkj
+
+
+## Not yet organized (pull requests welcome)
+
+### Cuarteto Almagro
+### Sexteto Andiamo
+### Bassa (Berlin?)
+### Combo Tango
+
+### Orquesta Típica de Angelis
+### Diego Schissi
+
+### Cuarteto Entre Mundos
+
+### Orquesta Típica Esquina Sur
+
+- https://orquestaesquinasur.bandcamp.com/
+  
+### Dúo Fuertes Varnerín
+
+### Orquesta Típica Julián Peralta
+### Sexteto Mayor
+### Típica Messiez
+### Los Milonguitas 
+### Los Muchachos De Antes
+### Cuarteto Mulenga
+### Neotango
+
+### Noelia Sinkunas
+
+### Sexteto Obsesión Tango
+
+### La Orsay
+
+- https://www.facebook.com/laorsay/
+
+### Pequeños Gigantes del Tango
+
+### Quintet Piazzolleky
+
+### Rascasuelos
+
+### Sexteto Rayero
+
+### Los Reyes Del Tango
+
+- https://www.youtube.com/@losreyesdeltango5504
+
+### Rogue Tango
+
+- https://scottmateo.com/rogue-tango/
+
+### Schwenkglenks y los gringos del tango
+
+### The Tango Group
+
+### Tanguedad
+
+### Cuarteto Tanguero
+
+### Underfloor
+
+### Sexteto Unitango
+
+### Orquesta Victoria
+
+### Orquesta Villa Crespo
+
+### Orquesta Típica Villa Urquiza
+
+- https://www.facebook.com/orquestatipicavillaurquiza/ 
+
+- Sandra Rehder (dancable?)
+- Gidon Kremer (dancable?)
+
+### Viviana Guzman & Anibal Corniglio (flute heavy)
+
+
+
+
+
+
+
+
+
+
