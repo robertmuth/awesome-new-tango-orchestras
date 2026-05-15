@@ -1,5 +1,7 @@
 # Awesome New Tango Orchestras
 
+*For a table of contents press the button with the dashes in the upper right corner of this view*
+
 A collection of Tango Orchestras that had new releases after 
 the year 2000, play music not too far away from the golden era style and cater to dancers.
 
@@ -10,202 +12,11 @@ If you want to add or fix something in this document, send a pull request or fil
 Sort order is alphabetical after dropping all words like:
 Combo, Conjunto, Cuarteto, El, Ensemble, La, Los, Orquesta, Quinteto, Sexteto, The, Típica, Trio, etc. 
 
-**A**
-
-- [Orquesta Típica El Afronte](#orquesta-típica-el-afronte)
-- [Amores Tangos](#amores-tangos)
-- [Analia Goldberg](#analia-goldberg)
-- [Orquesta Típica Andariega](#orquesta-típica-andariega)
-- [Quinteto Ángel](#quinteto-ángel)
-- [Orquesta El Arranque](#orquesta-el-arranque)
-- [Athens Tango Ensemble](#athens-tango-ensemble)
-- [La Auténtica Milonguera](#la-auténtica-milonguera)
-- [Ayahuasca Tango](#ayahuasca-tango)
-
-**B**
-- [Band-O-Neon](#band-o-neon)
-- [Bandonegro](#bandonegro)
-- [Beata Söderberg](#beata-söderberg)
-- [Conjunto Berretin](#conjunto-berretin)
-
-**C**
-- [El Caburé](#el-caburé)
-- [El Cachivache](#el-cachivache)
-- [Orquesta Típica Ciudad Baigón](#orquesta-típica-ciudad-baigón)
-- [Collectif Roulotte Tango](#collectif-roulotte-tango)
-- [Color Tango](#color-tango)
-- [Sexteto Cristal](#sexteto-cristal)
-
-**E**
-
-- [Orquesta Escuela de Tango](#orquesta-escuela-de-tango)
-
-**F**
-
-- [Fabio Hager Sexteto](#fabio-hager-sexteto)
-- [Sexteto Fantasma](#sexteto-fantasma)
-- [Orquesta Típica Fernández Fierro](#orquesta-típica-fernández-fierro)
-- [Fernando Serrano](#fernando-serrano)
-- [Orquesta Tipica Fervor de Buenos Aires](#orquesta-tipica-fervor-de-buenos-aires)
-- [Forever Tango](#forever-tango)
-  
-**G**
-
-- [Trio Garufa](#trio-garufa)
-- [Gente De Tango](#gente-de-tango)
-
-**H**
-
-- [Los Herederos Del Compás](#los-herederos-del-compás)
-- [Hyperion Ensemble](#hyperion-ensemble)
-
-**J**
-
-- [La Juan D’Arienzo](la-juan-d-arienzo)
-- [Javier Fioramonti](#javier-fioramonti)
-
-**M**
-
-- [Mandragora Tango Orchestra](#mandragora-tango-orchestra)
-- [Martes Tango Trio](#martes-tango-trio) 
-- [Sexteto Milonguero](#sexteto-milonguero)
-- [Orquesta Típica Misteriosa Buenos Aires](#orquesta-típica-misteriosa-buenos-aires)
-
-**N**
-
-- [Quinteto Negro La Boca](#quinteto-negro-la-boca)
-
-**P**
-
-- [Pablo Valle Sexteto](#pablo-valle-sexteto)
-- [Trio Pantango](#trio-pantango)
-- [Orquesta Típica Pichuco](#orquesta-típica-pichuco)
-  
-**Q**
-
-- [Quartango](#quartango)
-- [Quintango](#quintango)
-
-**R**
-
-- [Los Reyes del Tango](#los-reyes-del-tango)
-- [Romantica Milonguera](#romantica-milonguera)
-- [Cuarteto Rotterdam](#cuarteto-rotterdam)
-
-**S**
-
-- [Orquesta Típica San Juan](#orquesta-típica-san-juan)
-- [Orquesta Típica Sans Souci](#orquesta-típica-sans-souci)
-- [La Santa Calavera](#la-santa-calavera)
-- [Sentimental y Canyengue](#sentimental-y-canyengue)
-- [Orquesta Silbando](#orquesta-silbando)
-- [Silencio Tango Orchestra](#silencio-tango-orchestra)
-- [Social Tango Project](#social-tango-project) 
-- [Solo Tango](#solo-tango)
-- [Cuarteto Soltango](#cuarteto-soltango)
-- [Sonder Tango](#sonder-tango)
-
-**T**
-
-- [TangoEsta](#tangoesta)
-- [Tango No. 9](#tango-no-9)
-- [Tangata Quintet](#tangata-quintet)
-- [Tango Bardo](#tango-bardo)
-- [Tango Extremo](#tango-extremo)
-- [Tango Sin Fin](#tango-sin-fin)
-- [Tango Spleen Orquesta](#tango-spleen-orquesta)
-- [Tangorra Orquesta Atípica](#tangorra-orquesta-atípica)
-- [Orquesta Típica Tanturi](#orquesta-típica-tanturi)
-
-**V**
-
-- [Orquesta Típica La Vidú](#orquesta-típica-la-vidú)
-- [Sexteto Visceral](#sexteto-visceral)
 
 
-## Orchestras that did not quite pass the recent release filter
 
 
-- The New York Tango Trio
-  https://open.spotify.com/artist/20kdACzL89CQTl4hopeCup
-- Nuevo Quinteto Real (Horacio Salgan)
-- Quinteto Real (Horacio Salgan)
-- Los Solistas de D' Arienzo
-- Quinteto Francisco Canaro (Antonio D'Alessandro)
-  https://open.spotify.com/artist/08oVNPaNvcdlzLUxAXfOeY
 
-## Orchestras that did not quite pass the golden era style filter
-
-- Alacran
-  
-  https://open.spotify.com/artist/1UDZ1csmVbsTS1JiSMOs2l
-- Astillero
-
-  https://astillerotango.com.ar/
-  https://open.spotify.com/artist/6H0VSaqaG0soPLJTFcdIQM
-  https://www.youtube.com/@astillerotango
-  https://astillero.bandcamp.com/album/quilombo
-
-- Bailongo!
-- Las Bordonas
-- Bajofondo
-  
-  https://open.spotify.com/artist/4Wk0MW9d5uu6WbAgRCuH4O
-- Las Bordonas
-- Carlos Libedinsky
-- Daniel Melingo
-
-  https://open.spotify.com/artist/08X5fKnU2tkjH4IeLnl8vt
-- Electrocutango
-  
-- Etango
-  
-  https://open.spotify.com/artist/01eCg3wJvTBkYoTEpe2Xo2
-- Federico Aubele
-
-  https://www.federicoaubele.com/
-  https://open.spotify.com/playlist/4GiSz0wY7fUUl9oLvVDSD8
-  https://soundcloud.com/federicoaubele/sets/my-favorite-tracks
-- Gotan Project
-
-  https://www.gotanproject.com/
-  https://www.youtube.com/channel/UCs2RzWFCRCxCn-0UpKEdabg
-  https://open.spotify.com/artist/44ejFPE33H5aOInxNV2BFP
-
-- Kantango
-- Marios Strofalis Quartet 
-
-  https://www.youtube.com/@MariosStrofalis
-  https://www.facebook.com/p/Marios-Strofalis-100063553390862/
-  https://open.spotify.com/artist/1PSURAzSQH9R4f4Kfy3YIU
-
-- Narcotango (Carlos Libedinsky)
-
-  http://narcotango.com.ar/en/index.html
-  https://open.spotify.com/artist/4QaiDw2kGhHm0JPqZ166D9
-- Otros Aires
-
-  https://www.otrosaires.com/
-  https://open.spotify.com/artist/4V8yy6XGCvl6cy2UihbH2h
-- San Telmo Lounge
-  
-  https://open.spotify.com/artist/30HyR7VywzVrsKvpl2vXu4
-
-- Sudestada Tango
-  
-  https://open.spotify.com/artist/3wIDWa1hCa2EFZJKOjgS1S
-- Tanghetto
-
-  https://en.tanghetto.net/
-  https://www.youtube.com/user/Tanghetto2001
-- Tangótico
-- Tango Project
-- Tango Jointz
-
-  https://open.spotify.com/artist/0yRtf6rV52WnxpCnDFG8En
-- Tangoloco (Daniel Garcia Quinteto) 
-
-  https://open.spotify.com/artist/6kFy4Ql2YEcpaElKcnBGkj
 
 ### Not yet organized (pull requests welcome)
 
@@ -1012,5 +823,107 @@ La Orquesta Típica La Vidú se formó en el año 2005 con el anhelo de darle vi
 - https://www.youtube.com/channel/UCu8YWGiR9c0GIBqdl5C2fhw
 - https://open.spotify.com/artist/5OyqRQZbRb8r3TGDGf6X8C
 
+## Orchestras that did not quite pass the recent release filter
 
 
+### The New York Tango Trio
+
+- https://open.spotify.com/artist/20kdACzL89CQTl4hopeCup
+
+### Nuevo Quinteto Real (Horacio Salgan)
+
+### Quinteto Real (Horacio Salgan)
+
+### Los Solistas de D' Arienzo
+
+### Quinteto Francisco Canaro (Antonio D'Alessandro)
+
+- https://open.spotify.com/artist/08oVNPaNvcdlzLUxAXfOeY
+
+## Orchestras that did not quite pass the golden era style filter
+
+### Alacran
+  
+- https://open.spotify.com/artist/1UDZ1csmVbsTS1JiSMOs2l
+
+### Astillero
+
+- https://astillerotango.com.ar/
+- https://open.spotify.com/artist/6H0VSaqaG0soPLJTFcdIQM
+- https://www.youtube.com/@astillerotango
+- https://astillero.bandcamp.com/album/quilombo
+
+### Bailongo!
+
+### Las Bordonas
+
+### Bajofondo
+  
+- https://open.spotify.com/artist/4Wk0MW9d5uu6WbAgRCuH4O
+
+### Carlos Libedinsky
+
+### Daniel Melingo
+
+- https://open.spotify.com/artist/08X5fKnU2tkjH4IeLnl8vt
+
+### Electrocutango
+  
+### Etango
+  
+- https://open.spotify.com/artist/01eCg3wJvTBkYoTEpe2Xo2
+
+### Federico Aubele
+
+- https://www.federicoaubele.com/
+- https://open.spotify.com/playlist/4GiSz0wY7fUUl9oLvVDSD8
+- https://soundcloud.com/federicoaubele/sets/my-favorite-tracks
+
+### Gotan Project
+
+- https://www.gotanproject.com/
+- https://www.youtube.com/channel/UCs2RzWFCRCxCn-0UpKEdabg
+- https://open.spotify.com/artist/44ejFPE33H5aOInxNV2BFP
+
+### Kantango
+
+### Marios Strofalis Quartet 
+
+- https://www.youtube.com/@MariosStrofalis
+- https://www.facebook.com/p/Marios-Strofalis-100063553390862/
+- https://open.spotify.com/artist/1PSURAzSQH9R4f4Kfy3YIU
+
+### Narcotango (Carlos Libedinsky)
+
+- http://narcotango.com.ar/en/index.html
+- https://open.spotify.com/artist/4QaiDw2kGhHm0JPqZ166D9
+
+### Otros Aires
+
+- https://www.otrosaires.com/
+- https://open.spotify.com/artist/4V8yy6XGCvl6cy2UihbH2h
+  
+### San Telmo Lounge
+  
+- https://open.spotify.com/artist/30HyR7VywzVrsKvpl2vXu4
+
+### Sudestada Tango
+  
+- https://open.spotify.com/artist/3wIDWa1hCa2EFZJKOjgS1S
+
+### Tanghetto
+
+- https://en.tanghetto.net/
+- https://www.youtube.com/user/Tanghetto2001
+
+### Tangótico
+
+### Tango Project
+
+### Tango Jointz
+
+- https://open.spotify.com/artist/0yRtf6rV52WnxpCnDFG8En
+
+### Tangoloco (Daniel Garcia Quinteto) 
+
+- https://open.spotify.com/artist/6kFy4Ql2YEcpaElKcnBGkj
