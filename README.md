@@ -754,6 +754,8 @@ La Orquesta Típica La Vidú se formó en el año 2005 con el anhelo de darle vi
 
 ### Carlos Libedinsky
 
+### Cuarteto Cedron
+
 ### Daniel Melingo
 
 - https://open.spotify.com/artist/08X5fKnU2tkjH4IeLnl8vt
