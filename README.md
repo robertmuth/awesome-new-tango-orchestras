@@ -57,6 +57,13 @@ The Quinteto Ángelm founded in 2001, has quickly become one of the most well kn
 - http://www.quintetoangel.de/index_en.php
 - https://open.spotify.com/artist/1H9d1HxTX9DSvRItpppIbb
 
+### Orquesta Típica de Angelis
+
+Orquesta Milonguera que homenajea al hito de las pistas de Baile, Alfredo De Angelis
+
+- https://www.facebook.com/tipicadeangelis/
+- https://open.spotify.com/artist/30v2eBH5Qespj3Pqr9Jmsw
+
 ### Orquesta El Arranque (Argentina)
 
 Orquesta El Arranque is an Argentine tango orchestra formed in Buenos Aires in 1996.
@@ -842,7 +849,6 @@ La Orquesta Típica La Vidú se formó en el año 2005 con el anhelo de darle vi
 ### Bassa (Berlin?)
 ### Combo Tango
 
-### Orquesta Típica de Angelis
 ### Diego Schissi
 
 ### Cuarteto Entre Mundos
