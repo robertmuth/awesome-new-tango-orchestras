@@ -223,6 +223,15 @@ La Orquesta Escuela de Tango Emilio Balcarce es una iniciativa pedagógica cread
 - https://www.youtube.com/@orquestaescueladetangoemil1111
 - https://open.spotify.com/artist/74jNjqtTPX0TDvWws6SQfl
 
+### Ezequiel Uhart Quinteto
+
+Acontemporary Argentine tango group led by pianist and composer Ezequiel Uhart. 
+The ensemble is known for its original compositions and classic arrangements of traditional tangos and milongas, 
+capturing the authentic, dynamic spirit of the Rio de la Plata.
+
+- https://play.qobuz.com/artist/2528150
+- https://open.spotify.com/artist/34a0IS8txUOSpQkNICeCNg
+
 ### Fabio Hager Sexteto (Argentina)
 
 With a focus on the interpretation of original compositions, the Fabio Hager Sexteto has been consolidated with a new generation of tangos that leaves no one indifferent.
@@ -837,7 +846,8 @@ La Orquesta Típica La Vidú se formó en el año 2005 con el anhelo de darle vi
 ### Orquesta Típica Esquina Sur
 
 - https://orquestaesquinasur.bandcamp.com/
-  
+
+
 ### Dúo Fuertes Varnerín
 
 ### Gidon Kremer 
