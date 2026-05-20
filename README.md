@@ -606,14 +606,25 @@ often sharing the stage with renowned tango dancers.
 - https://www.youtube.com/channel/UCmoIYnKVjUmwd9Ifwvpi5tA
 - https://open.spotify.com/artist/27MBaWe61GOM2f4YSMvWVc
   
+### Tángalo Modern Tango Orchestra (Australian)
+
+A fresh tango quintet based in Australia that brings a modern, 
+highly arranged twist to both classic Argentine tango and original compositions. 
+Known for playing for both listeners and dancers, the group was formed in 2011 and 
+has collaborated directly with musicians in Buenos Aires.
+
+- https://www.facebook.com/tangaloband/
+- https://tangalo.bandcamp.com/album/good-enough-for-gringos
 
 ### Tangata Quintet (Polish)
 
-*TODO: needs more research*
+A celebrated Polish tango and chamber music ensemble. Known for their virtuosic performances of both traditional Polish tangos and 
+Nuevo Tango (championed by Astor Piazzolla), the group features a classic tango instrumentation of violin, bandoneon or accordion, 
+piano, electric guitar, and double bass.
 
 - https://www.facebook.com/tangata.quintet/
 - https://open.spotify.com/artist/5yKXtTsYNUpidzJ0YaS0bs
-- 
+  
 ### TangoEsta (Turkey)
 
 TangEsta (aka Tangueros de Estambul) is a typical tango orchestra that plays tangos mostly 
