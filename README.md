@@ -770,7 +770,11 @@ La Orquesta Típica La Vidú se formó en el año 2005 con el anhelo de darle vi
 - https://open.spotify.com/artist/08X5fKnU2tkjH4IeLnl8vt
 
 ### Electrocutango
-  
+
+### Esquinas de Nuez aks  Colectivo Tango Esquinas
+
+- https://esquinas-tango.bandcamp.com/
+
 ### Etango
   
 - https://open.spotify.com/artist/01eCg3wJvTBkYoTEpe2Xo2
@@ -846,7 +850,6 @@ La Orquesta Típica La Vidú se formó en el año 2005 con el anhelo de darle vi
 ### Orquesta Típica Esquina Sur
 
 - https://orquestaesquinasur.bandcamp.com/
-
 
 ### Dúo Fuertes Varnerín
 
