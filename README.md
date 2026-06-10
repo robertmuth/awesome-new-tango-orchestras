@@ -860,9 +860,16 @@ La Orquesta Típica La Vidú se formó en el año 2005 con el anhelo de darle vi
 ### Cuarteto Almagro
 ### Sexteto Andiamo
 ### Bassa (Berlin?)
+
+#### Orquesta Típica Ciudad Baigón
+
+dancable?
+
 ### Combo Tango
 
 ### Diego Schissi
+
+### La Empoderada Orquesta Atípica
 
 ### Cuarteto Entre Mundos
 
@@ -877,6 +884,9 @@ La Orquesta Típica La Vidú se formó en el año 2005 con el anhelo de darle vi
 dancable?
 
 ### Orquesta Típica Julián Peralta
+
+### LA MARTINO ORQUESTA TIPICA
+
 ### Sexteto Mayor
 ### Típica Messiez
 ### Los Milonguitas 
@@ -909,6 +919,8 @@ dancable?
 dancable?
 
 ### Schwenkglenks y los gringos del tango
+
+### Sciammarella Tango
 
 ### The Tango Group
 
