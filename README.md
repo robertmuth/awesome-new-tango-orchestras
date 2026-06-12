@@ -797,7 +797,7 @@ Interpreta temas clásicos con arreglos propios y nutren el género con composic
 ###################################################################
 ###################################################################
 --->
-## Orchestras that did not quite pass the recent release filter
+# Orchestras that did not quite pass the recent release filter
 
 
 ### The New York Tango Trio
@@ -818,7 +818,7 @@ Interpreta temas clásicos con arreglos propios y nutren el género con composic
 ###################################################################
 ###################################################################
 --->
-## Orchestras that did not quite pass the golden era style filter
+# Orchestras that did not quite pass the golden era style filter
 
 ### Alacran
   
@@ -945,7 +945,7 @@ estableciendo una firme ruptura con los estereotipos patriarcales.
 ###################################################################
 ###################################################################
 --->
-## Not yet organized (pull requests welcome)
+# Not yet organized (pull requests welcome)
 
 ### Cuarteto Almagro
 
