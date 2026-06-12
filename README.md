@@ -39,6 +39,7 @@ Amores was founded in 2008 as a meeting of musicians and friends who, after play
 - https://www.facebook.com/analia.goldberg.7/
 - https://analiagoldberg.bandcamp.com/album/analia-goldberg
 - https://open.spotify.com/artist/2PKVqXSxKrJuOuUPplmWzW
+- https://analiagoldberg.bandcamp.com/album/analia-goldberg
 
 ### Orquesta Típica Andariega (Argentina)
 
@@ -230,6 +231,16 @@ La Orquesta Escuela de Tango Emilio Balcarce es una iniciativa pedagógica cread
 - https://www.youtube.com/@orquestaescueladetangoemil1111
 - https://open.spotify.com/artist/74jNjqtTPX0TDvWws6SQfl
 
+### Orquesta Típica Esquina Sur (Argentina)
+
+La orquesta Esquina Sur, se fundo el 24 de Enero de 2009 en el sector piletas del club atlético Boca Juniors, 
+comenzando con los ensayos en el mítico teatro Verdi del barrio de la Boca.
+Esquina Sur recrea el estilo de la orquesta de Osvaldo Fresedo.
+
+- https://orquestaesquinasur.bandcamp.com/
+- https://www.youtube.com/@orquestatipicaesquinasur4950
+- https://www.deezer.com/us/artist/159821232
+- 
 ### Ezequiel Uhart Quinteto
 
 Acontemporary Argentine tango group led by pianist and composer Ezequiel Uhart. 
@@ -361,7 +372,7 @@ studied harmony and composition with Lucho Gonzalez (Mercedes Sosa, Chabuca Gran
 doing (amongst other studies) the Berklee College of Music summer courses in Buenos Aires.
 
 - https://donfioramusic.co.uk/
-- https://open.spotify.com/search/Javier%20Fioramonti
+- https://open.spotify.com/search/Javier%20FioramontiLa Martino Orquesta Típica
 
 
 ### Mandragora Tango Orchestra (USA)
@@ -373,20 +384,35 @@ In 2004 it was hired by Theatre De La Jeune Lune for their highly acclaimed prod
 
 - https://open.spotify.com/artist/6927AljyPM8QhyJOD1kxje
 
-### Martes Tango Trio
-
+### Martes Tango Trio (Switzerland)
+	
+Tango ensemble, created as a trio in Basel, Switzerland, in 2009.
 TODO: needs more info 
 
 - https://www.facebook.com/martestangotrio/
 - https://www.youtube.com/martestangotrio
 - https://open.spotify.com/artist/1lRzIvxCHXtxqLE6HwMvZ1
-  
+
+### La Martino Orquesta Típica
+
+Esta Orquesta nace a fines del 2014 a partir de la inquietud de jóvenes músicos de aportar nuevos conceptos a la música ciudadana. 
+El proyecto pretende innovar en las sonoridades del género del tango, sin perder la esencia característica del mismo, 
+utilizando composiciones propias y originales y promoviendo la expresión de poetas y voces contemporáneas.  
+
+- https://lamartino.bandcamp.com/album/la-martino-orquesta-tipica
+- https://www.youtube.com/@lamartinoorquestatipica8041
+- https://www.deezer.com/us/artist/12192396
+
 ### Sexteto Milonguero
 
 Sexteto Milonguero se formó en 2006 por Javier Di Ciriaco (Cantante). Es una de las orquestas de tango más conocidas, 
 que ha viajado por casi todo el mundo, con una personalidad única e inconfundible.
 
-El estilo del grupo, tiene un comienzo, en esencia, bailable. Y a lo largo de los años, también debido a la diversidad de lugares donde se han presentado en los últimos años, como teatros o festivales en todo el mundo, se han agregado a su extenso repertorio, una variedad de canciones propias, canciones de folklore argentino, etc. Esto ha permitido mostrar y fusionar las diferentes influencias que cada uno de los integrantes del sexteto incluye: música popular argentina, jazz, clásica, rock, etc. ... influencias contemporáneas actuales.
+El estilo del grupo, tiene un comienzo, en esencia, bailable. Y a lo largo de los años, también debido a la diversidad 
+de lugares donde se han presentado en los últimos años, como teatros o festivales en todo el mundo, se han agregado 
+a su extenso repertorio, una variedad de canciones propias, canciones de folklore argentino, etc. 
+Esto ha permitido mostrar y fusionar las diferentes influencias que cada uno de los integrantes del sexteto incluye: 
+música popular argentina, jazz, clásica, rock, etc. ... influencias contemporáneas actuales.
 
 - https://es.wikipedia.org/wiki/Sexteto_Milonguero
 - https://open.spotify.com/artist/30D3R1VEr9c8imrHOlKJuE
@@ -899,10 +925,6 @@ dancable?
 ### La Empoderada Orquesta Atípica
 
 ### Cuarteto Entre Mundos
-
-### Orquesta Típica Esquina Sur
-
-- https://orquestaesquinasur.bandcamp.com/
 
 ### Dúo Fuertes Varnerín
 
