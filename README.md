@@ -740,7 +740,10 @@ La Orquesta Típica La Vidú se formó en el año 2005 con el anhelo de darle vi
 - https://open.spotify.com/artist/5OyqRQZbRb8r3TGDGf6X8C
 
 
-
+<!---
+###################################################################
+###################################################################
+--->
 ## Orchestras that did not quite pass the recent release filter
 
 
@@ -758,6 +761,10 @@ La Orquesta Típica La Vidú se formó en el año 2005 con el anhelo de darle vi
 
 - https://open.spotify.com/artist/08oVNPaNvcdlzLUxAXfOeY
 
+<!---
+###################################################################
+###################################################################
+--->
 ## Orchestras that did not quite pass the golden era style filter
 
 ### Alacran
@@ -775,19 +782,27 @@ La Orquesta Típica La Vidú se formó en el año 2005 con el anhelo de darle vi
 
 ### Las Bordonas
 
+- https://www.deezer.com/us/album/99940072
+
 ### Bajofondo
   
 - https://open.spotify.com/artist/4Wk0MW9d5uu6WbAgRCuH4O
 
 ### Carlos Libedinsky
 
+- https://www.deezer.com/us/artist/156993
+- 
 ### Cuarteto Cedron
+
+- https://www.deezer.com/us/artist/337304
 
 ### Daniel Melingo
 
 - https://open.spotify.com/artist/08X5fKnU2tkjH4IeLnl8vt
 
 ### Electrocutango
+
+- https://www.deezer.com/us/artist/156978
 
 ### Esquinas de Nuez aks  Colectivo Tango Esquinas
 
@@ -811,6 +826,8 @@ La Orquesta Típica La Vidú se formó en el año 2005 con el anhelo de darle vi
 
 ### Kantango
 
+- https://www.deezer.com/us/artist/58028
+  
 ### Marios Strofalis Quartet 
 
 - https://www.youtube.com/@MariosStrofalis
@@ -840,8 +857,14 @@ La Orquesta Típica La Vidú se formó en el año 2005 con el anhelo de darle vi
 - https://en.tanghetto.net/
 - https://www.youtube.com/user/Tanghetto2001
 
+### Tango Tripping Project
+
+- https://www.deezer.com/us/artist/4132271
+
 ### Tangothic
 
+- https://www.deezer.com/us/artist/325507
+- 
 ### Tangótico
 
 ### Tango Project
@@ -854,10 +877,14 @@ La Orquesta Típica La Vidú se formó en el año 2005 con el anhelo de darle vi
 
 - https://open.spotify.com/artist/6kFy4Ql2YEcpaElKcnBGkj
 
-
+<!---
+###################################################################
+###################################################################
+--->
 ## Not yet organized (pull requests welcome)
 
 ### Cuarteto Almagro
+
 ### Sexteto Andiamo
 ### Bassa (Berlin?)
 
