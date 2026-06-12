@@ -13,7 +13,16 @@
 A collection of Tango Orchestras that had new releases after 
 the year 2000, play music not too far away from the golden era style and cater to dancers.
 
+### El Afile Tango (Argentina)
 
+El Afile Tango is a contemporary Argentine tango ensemble known for their fresh, modern interpretations of traditional tango music, milongas, and vals. 
+Hailing from Buenos Aires, Argentina, the group brings a dynamic and authentic style to the Latin music scene.
+
+- https://open.spotify.com/artist/1Ao48io8FgRjuIfcnITXHs
+- https://soundcloud.com/elafiletango
+- https://www.youtube.com/@elafiletango5380
+- https://www.deezer.com/us/artist/62049732
+- 
 ### Orquesta Típica El Afronte (Argentina)
 
 "El Afronte Orquesta Típica" transfers the spirit of the dance from tango into the present day, 
@@ -177,12 +186,15 @@ Witty song introductions emerged with the music, livening up already energetic p
 
 ### Orquesta Típica Ciudad Baigón (Argentina)
 
+Agrupación musical y artística que recupera la tradición de la orquesta típica
+
 TODO: needs more info
 
 - https://www.youtube.com/c/CiudadBaigonOT
 - https://www.facebook.com/CiudadBaigon/
 - https://open.spotify.com/intl-es/artist/4AqPTqlGFbOZseQXCksv57
-
+- https://www.deezer.com/us/artist/516873
+- 
 ### Collectif Roulotte Tango (France)
 
 Founded in 2002 by Julien Blondel, the Roulotte Tango collective explores the music of the Rio de la Plata 
@@ -402,7 +414,8 @@ utilizando composiciones propias y originales y promoviendo la expresión de poe
 - https://lamartino.bandcamp.com/album/la-martino-orquesta-tipica
 - https://www.youtube.com/@lamartinoorquestatipica8041
 - https://www.deezer.com/us/artist/12192396
-
+- https://lamartino.bandcamp.com/
+  
 ### Sexteto Milonguero
 
 Sexteto Milonguero se formó en 2006 por Javier Di Ciriaco (Cantante). Es una de las orquestas de tango más conocidas, 
@@ -539,6 +552,19 @@ and plays weekly shows in Buenos Aires in the most popular milongas of the city.
 - https://www.youtube.com/channel/UCJ8JMWi9-VvWXLI0N-xTgPg
 - https://open.spotify.com/artist/1YTLg92OLJ8MpfA1tJEftF
 
+### Sciammarella Tango 
+
+Sciammarella Tango es una orquesta femenina y cosmopolita, dedicada al rescate de patrimonio musical perdido.
+
+Integrada por músicas provenientes de las mejores orquestas de Buenos Aires, como la Selección Nacional de Tango, 
+la Orquesta del Tango de Buenos Aires, la Orquesta Académica del Teatro Colón o la Orquesta Sinfónica Nacional.
+
+Fundado en 2013 por Denise Sciammarella, Sciammarella Tango es un proyecto declarado de interés cultural por la Ciudad de Buenos Aires, en febrero de 2016.
+
+- https://www.youtube.com/@SciammarellaTango
+- https://www.deezer.com/us/artist/8772958
+- https://open.spotify.com/artist/59HnnLLjst8lKzKXTLoj71
+  
 ### La Santa Calavera
 (Argentina)
 
@@ -752,7 +778,8 @@ Bajo la invocación, mas tanguera imposible, de la figura del maestro Ricardo Ta
 
 ### Orquesta Típica La Vidú
 
-La Orquesta Típica La Vidú se formó en el año 2005 con el anhelo de darle vida y continuidad al género, reafirmando la condición barrial del origen orillero del tango. Interpreta temas clásicos con arreglos propios y nutren el género con composiciones originales.
+La Orquesta Típica La Vidú se formó en el año 2005 con el anhelo de darle vida y continuidad al género, reafirmando la condición barrial del origen orillero del tango. 
+Interpreta temas clásicos con arreglos propios y nutren el género con composiciones originales.
 
 - https://otlavidu.bandcamp.com/
 - https://open.spotify.com/artist/7LGT8ydQZ969RUbzBNJbAQ
@@ -829,6 +856,17 @@ La Orquesta Típica La Vidú se formó en el año 2005 con el anhelo de darle vi
 ### Electrocutango
 
 - https://www.deezer.com/us/artist/156978
+
+### La Empoderada Orquesta Atípica
+
+La Empoderada Orquesta Atípica es una agrupación cooperativa de tango nuevo integrada por 22 músicas. 
+Junto a su atípica formación que incluye saxo barítono, flautas, clarinete, piano, guitarra, contrabajo, violines, 
+cellos, bandoneones y sus cuatro cantantes, la orquesta se propone, a través de un repertorio nuevo y disruptivo, 
+dar visibilidad al trabajo de compositoras/es, arregladoras/es e intérpretes, roles de los que han sido históricamente excluidas/es, 
+estableciendo una firme ruptura con los estereotipos patriarcales. 
+
+- https://www.youtube.com/@laempoderadaorquesta
+- https://www.deezer.com/us/artist/137001042
 
 ### Esquinas de Nuez aks  Colectivo Tango Esquinas
 
@@ -911,22 +949,26 @@ La Orquesta Típica La Vidú se formó en el año 2005 con el anhelo de darle vi
 
 ### Cuarteto Almagro
 
+- https://www.deezer.com/us/artist/86672
+- https://open.spotify.com/artist/6fYAeTd8rh94uz0SMnvCaF
+- 
 ### Sexteto Andiamo
+
 ### Bassa (Berlin?)
 
-#### Orquesta Típica Ciudad Baigón
-
-dancable?
 
 ### Combo Tango
 
+- https://www.deezer.com/us/artist/2188631
+
 ### Diego Schissi
 
-### La Empoderada Orquesta Atípica
 
 ### Cuarteto Entre Mundos
 
 ### Dúo Fuertes Varnerín
+
+- https://www.deezer.com/us/artist/5520525
 
 ### Gidon Kremer 
 
@@ -934,18 +976,30 @@ dancable?
 
 ### Orquesta Típica Julián Peralta
 
-### LA MARTINO ORQUESTA TIPICA
+- https://www.deezer.com/us/artist/5119145
+
 
 ### Sexteto Mayor
+
 ### Típica Messiez
+
 ### Los Milonguitas 
+
 ### Los Muchachos De Antes
+
+- https://www.deezer.com/us/artist/129192
+
 ### Cuarteto Mulenga
+
+- https://www.deezer.com/us/artist/14002679
+
 ### Neotango
 
 ### Noelia Sinkunas
 
 ### Sexteto Obsesión Tango
+
+- https://www.deezer.com/us/artist/4739410
 
 ### La Orsay
 
@@ -953,11 +1007,19 @@ dancable?
 
 ### Pequeños Gigantes del Tango
 
+- https://www.deezer.com/us/artist/201718307
+
 ### Quintet Piazzolleky
+
+### La Rantifusa
+
+- https://www.deezer.com/us/album/340856997
 
 ### Rascasuelos
 
 ### Sexteto Rayero
+
+- https://www.deezer.com/us/artist/91909672
 
 ### Rogue Tango
 
@@ -966,13 +1028,15 @@ dancable?
 ### Sandra Rehder 
 
 dancable?
+- https://www.facebook.com/CiudadBaigon/
 
 ### Schwenkglenks y los gringos del tango
 
-### Sciammarella Tango
 
 ### The Tango Group
 
+- https://www.deezer.com/us/artist/1082361
+- 
 ### Tanguedad
 
 ### Cuarteto Tanguero
@@ -982,6 +1046,8 @@ dancable?
 ### Sexteto Unitango
 
 ### Orquesta Victoria
+
+- https://www.deezer.com/us/artist/5445548
 
 ### Orquesta Villa Crespo
 
