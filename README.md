@@ -843,6 +843,14 @@ Interpreta temas clásicos con arreglos propios y nutren el género con composic
 
 ### Bailongo!
 
+### Bassa (Germany)
+
+Bassa is a Berlin-based tango band that blends traditional Argentine tango with jazz, classical, and world music. Formed in 2004, the ensemble redefines the genre through chamber 
+music-style arrangements and features a unique instrumentation that includes clarinet, violin, double bass, and guitar, moving away from the traditional bandoneón-heavy lineup.
+
+- https://www.deezer.com/us/artist/319719
+- https://open.spotify.com/artist/4Yenm93sqAuPEt2xHG5DBC
+
 ### Las Bordonas
 
 - https://www.deezer.com/us/album/99940072
@@ -964,7 +972,6 @@ estableciendo una firme ruptura con los estereotipos patriarcales.
 - 
 ### Sexteto Andiamo
 
-### Bassa (Berlin?)
 
 
 ### Combo Tango
