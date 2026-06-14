@@ -995,6 +995,12 @@ dancable?
 
 - https://www.deezer.com/us/artist/5119145
 
+### Laura Camacho Tango Project (USA)
+
+- https://lauracamachotangoproject.bandcamp.com/
+- https://www.athenstangoproject.com/
+- https://www.deezer.com/us/artist/351097112
+
 
 ### Sexteto Mayor
 
@@ -1008,8 +1014,8 @@ dancable?
 
 ### Cuarteto Mulenga
 
-- https://www.deezer.com/us/artist/14002679
 
+  
 ### Neotango
 
 ### Noelia Sinkunas
