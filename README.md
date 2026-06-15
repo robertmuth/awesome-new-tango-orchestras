@@ -1059,7 +1059,12 @@ dancable?
 ### The Tango Group
 
 - https://www.deezer.com/us/artist/1082361
-- 
+
+### Tanguango Quinteto
+
+- https://www.tanguango.com/en
+- https://soundcloud.com/user-658545051
+
 ### Tanguedad
 
 ### Cuarteto Tanguero
