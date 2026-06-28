@@ -910,10 +910,15 @@ music-style arrangements and features a unique instrumentation that includes cla
 ### Carlos Libedinsky
 
 - https://www.deezer.com/us/artist/156993
-- 
+  
 ### Cuarteto Cedron
 
 - https://www.deezer.com/us/artist/337304
+
+### Orquesta Tipica Cuerdas del Plata
+
+- https://open.spotify.com/artist/3br2iMz7d36HquEBqtkdCM
+- https://play.qobuz.com/artist/24542927
 
 ### Daniel Melingo
 
