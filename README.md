@@ -937,6 +937,10 @@ estableciendo una firme ruptura con los estereotipos patriarcales.
 
 - https://www.otrosaires.com/
 - https://open.spotify.com/artist/4V8yy6XGCvl6cy2UihbH2h
+
+### Orquesta Típica Di Pasquale (Argentina)
+
+- https://www.deezer.com/us/artist/206815607
   
 ### San Telmo Lounge
   
