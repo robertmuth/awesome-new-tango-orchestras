@@ -952,6 +952,20 @@ estableciendo una firme ruptura con los estereotipos patriarcales.
 ### Orquesta Típica Di Pasquale (Argentina)
 
 - https://www.deezer.com/us/artist/206815607
+
+### San Osvaldo Orquesta (Argentina)
+
+San Osvaldo Orquesta nace a principios de 2018 con el objetivo de recrear el estilo pugliese. 
+En sus primeros años la formación fue sexteto con cantor con el tiempo y ante la necesidad de acercarse 
+más aún a la sonoridad desarrollada por Pugliese el grupo se amplía a orquesta típica.
+Se consolida en este formato y realiza presentaciones por distintos espacios tangueros de Buenos Aires 
+el CCK “Milonga Federal”, “La Viruta” “La Nacional” en el “Marabú” “Grisel” “Nuevo Chique” “Villa Malcom” 
+participa en importantes festivales como el “Ecunhi”, “Festival de Tango de Buenos Aires” “Garufa Tango Fest” y participa de encuentros sociales al aire libre.
+
+- https://sanosvaldoorquesta.wixsite.com/my-site-1
+- https://open.spotify.com/artist/0VQ6exFAzbi3X1FSWy2Ssr
+- https://www.youtube.com/@sanosvaldoorquesta6770
+- https://play.qobuz.com/artist/18927504
   
 ### San Telmo Lounge
   
