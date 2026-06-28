@@ -1001,7 +1001,12 @@ estableciendo una firme ruptura con los estereotipos patriarcales.
 - https://ranastango.com.ar/inicio/
 - https://open.spotify.com/artist/5Ntbkrnb4AW1oykXFfG6pT
 - https://www.deezer.com/us/artist/15052099
-  
+
+
+### Ramiro Gallo
+
+- https://www.deezer.com/us/artist/3800191
+
 ### San Osvaldo Orquesta (Argentina)
 
 San Osvaldo Orquesta nace a principios de 2018 con el objetivo de recrear el estilo pugliese. 
