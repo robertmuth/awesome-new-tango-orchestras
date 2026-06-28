@@ -77,13 +77,24 @@ Orquesta Milonguera que homenajea al hito de las pistas de Baile, Alfredo De Ang
 ### Orquesta El Arranque (Argentina)
 
 Orquesta El Arranque is an Argentine tango orchestra formed in Buenos Aires in 1996.
-Founded by double bassist Ignacio Varchausky and bandoneonist Camilo Ferrero and starting off as a quintet, El Arranque developed a repertoire that was readily embraced by the tango community, and by the end of their first year El Arranque had already performed over 200 shows in Argentine theatres and milongas
+Founded by double bassist Ignacio Varchausky and bandoneonist Camilo Ferrero and starting off as a quintet, 
+El Arranque developed a repertoire that was readily embraced by the tango community, 
+and by the end of their first year El Arranque had already performed over 200 shows in Argentine theatres and milongas
 Artango
 
 
 - https://en.wikipedia.org/wiki/Orquesta_El_Arranque
 - https://open.spotify.com/artist/5EsRO0Vumc48k4pMoC4MWV
 
+### Octeto Atemporal
+
+Octeto Atemporal is an Argentine tango orchestra formed in 2018 under the direction of bandoneonist Manuel Momo. 
+The ensemble is dedicated to exploring the roots and evolution of tango, milonga, and tango-candombe, having released five albums
+including Patio Atemporal (2023) and Radio Atemporal (2025).
+
+- https://play.qobuz.com/artist/13007263
+- https://www.deezer.com/us/artist/161379152
+- https://open.spotify.com/artist/7t47muTZYARjnpZfdEGMtD
 
 ### Athens Tango Ensemble (Greece)
 
