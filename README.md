@@ -863,6 +863,10 @@ Interpreta temas clásicos con arreglos propios y nutren el género con composic
 --->
 # Orchestras that did not quite pass the golden era style filter
 
+### 34 Puñaladas
+
+- https://www.deezer.com/us/artist/1289431
+
 ### Alacran
   
 - https://open.spotify.com/artist/1UDZ1csmVbsTS1JiSMOs2l
