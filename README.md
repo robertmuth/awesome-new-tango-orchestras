@@ -1,5 +1,5 @@
 > [!NOTE]
-> For a table of contents press the button with the three dashes in the upper right corner of this view
+> For a **table of contents** press the button with the three dashes in the upper right corner of this view
 > 
 > If you want to add or fix something in this document, send a pull request or file an issue.
 >
@@ -12,6 +12,7 @@
 
 A collection of Tango Orchestras that had new releases after 
 the year 2000, play music not too far away from the golden era style and cater to dancers.
+(Toward the end of this documents are sections with orchestras that meet some but not all of these criteria.)
 
 ### El Afile Tango (Argentina)
 
