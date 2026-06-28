@@ -159,6 +159,18 @@ Conjunto Berretín plays tango dance music and can range in configuration from d
 - https://open.spotify.com/artist/0c1LMgs4xTZwTyWqqesTdu
 - https://open.spotify.com/artist/5n0x3PuJ4hXqmLOB0Nq9lg
 
+### Orquesta Típica Cambio de Frente (Argentina)
+
+La orquesta fue conformada en el año 2011 como fruto de nuestra inquietud por el tango como medio de expresión de nuestra música popular rioplatense. 
+Elegimos el formato de la orquesta típica que es el que le dio al género una identidad propia. Cambio de Frente es una agrupación que trabaja colectivamente. 
+Todos sus integrantes componen, dirigen y escriben sus propios arreglos musicales, formando de este modo, 
+un canal para el desarrollo tanto musical como humano de sus integrantes. Nuestro repertorio aborda desde tangos clásicos de autores como 
+Contursi o Pontier a Tom Waits y Frank Zappa, pasando por chacareras o canciones litoraleñas e incluyendo nuestras propias composiciones.
+
+- https://www.facebook.com/orquestacambiodefrente/
+- https://www.youtube.com/@orquestatipicacambiodefren5379
+- https://www.deezer.com/us/artist/10691849
+- https://play.qobuz.com/artist/10931187
   
 ### El Caburé (Argentina)
 
@@ -194,7 +206,7 @@ TODO: needs more info
 - https://www.facebook.com/CiudadBaigon/
 - https://open.spotify.com/intl-es/artist/4AqPTqlGFbOZseQXCksv57
 - https://www.deezer.com/us/artist/516873
-- 
+
 ### Collectif Roulotte Tango (France)
 
 Founded in 2002 by Julien Blondel, the Roulotte Tango collective explores the music of the Rio de la Plata 
