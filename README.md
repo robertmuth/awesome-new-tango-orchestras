@@ -962,7 +962,11 @@ estableciendo una firme ruptura con los estereotipos patriarcales.
 ### Juan Pablo Navarro
 
 - https://www.deezer.com/us/artist/1004654
-  
+
+### Orquesta Típica Julián Peralta
+
+- https://www.deezer.com/us/artist/5119145
+
 ### La Hoguera Tango
 
 - https://lahogueratango.bandcamp.com/
@@ -1081,13 +1085,7 @@ participa en importantes festivales como el “Ecunhi”, “Festival de Tango d
 
 - https://www.deezer.com/us/artist/5520525
 
-### Gidon Kremer 
 
-dancable?
-
-### Orquesta Típica Julián Peralta
-
-- https://www.deezer.com/us/artist/5119145
 
 ### Laura Camacho Tango Project (USA)
 
