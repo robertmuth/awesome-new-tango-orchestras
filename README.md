@@ -1057,6 +1057,8 @@ dancable?
 
 ### Típica Messiez
 
+- https://www.deezer.com/us/artist/131171812
+
 ### Los Milonguitas 
 
 ### Los Muchachos De Antes
@@ -1065,7 +1067,7 @@ dancable?
 
 ### Cuarteto Mulenga
 
-
+- https://www.deezer.com/us/artist/14002679
   
 ### Neotango
 
@@ -1079,17 +1081,23 @@ dancable?
 
 - https://www.facebook.com/laorsay/
 
+### Pedro Giraudo Tango Quartet
+
 ### Pequeños Gigantes del Tango
 
 - https://www.deezer.com/us/artist/201718307
 
 ### Quintet Piazzolleky
 
+- https://www.deezer.com/us/artist/9916606
+  
 ### La Rantifusa
 
 - https://www.deezer.com/us/album/340856997
 
 ### Rascasuelos
+
+- https://play.qobuz.com/artist/31783989
 
 ### Sexteto Rayero
 
