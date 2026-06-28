@@ -943,6 +943,11 @@ estableciendo una firme ruptura con los estereotipos patriarcales.
 - https://www.youtube.com/channel/UCs2RzWFCRCxCn-0UpKEdabg
 - https://open.spotify.com/artist/44ejFPE33H5aOInxNV2BFP
 
+### La Hoguera Tango
+
+- https://lahogueratango.bandcamp.com/
+- https://www.facebook.com/lahogueratango2
+  
 ### Kantango
 
 - https://www.deezer.com/us/artist/58028
