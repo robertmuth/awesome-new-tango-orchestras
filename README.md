@@ -264,7 +264,18 @@ Esquina Sur recrea el estilo de la orquesta de Osvaldo Fresedo.
 - https://orquestaesquinasur.bandcamp.com/
 - https://www.youtube.com/@orquestatipicaesquinasur4950
 - https://www.deezer.com/us/artist/159821232
-- 
+
+### Cuarteto Extraordinario (Argentina)
+
+*needs more research*
+
+- https://play.qobuz.com/artist/20606058
+- https://www.deezer.com/us/artist/224214615
+- https://cuartetoextraordinario.bandcamp.com/
+- https://www.facebook.com/ExtraordinarioTango
+- https://open.spotify.com/artist/2McJQbiEEDkCDNf6KVBfUk
+- https://www.youtube.com/@CuartetoExtraordinario
+
 ### Ezequiel Uhart Quinteto
 
 Acontemporary Argentine tango group led by pianist and composer Ezequiel Uhart. 
