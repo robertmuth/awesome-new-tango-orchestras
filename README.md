@@ -764,6 +764,16 @@ Note: there is also an argentinian band named Quinteto Tango Extremo
 - https://open.spotify.com/artist/3Z0WmsXVicUUP0UBIyule1
 - https://play.qobuz.com/artist/6922821
 
+### Tango Siembre (UK)
+
+Tango Siempre are the UK’s leading tango company. A London Tango band giving performances in theatres, concert halls and milongas. 
+They appear as a tango quartet, as well as a trio and a full tango orchestra in their septet lineup. 
+Since 1998 they have toured the UK and Europe with projects ranging from traditional tango dance shows (Subitango, Tangomotion and Tango Encounters) 
+to collaborations with orchestras, contemporary dance companies and internationally acclaimed jazz musicians.
+
+- https://www.tangomusic.co.uk/
+- https://www.deezer.com/us/artist/1260234
+
 ### Tango Sin Fin (Argemtina)
 
 aka Orquesta Sin Fin?
