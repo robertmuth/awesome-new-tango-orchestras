@@ -421,7 +421,19 @@ doing (amongst other studies) the Berklee College of Music summer courses in Bue
 - https://donfioramusic.co.uk/
 - https://open.spotify.com/search/Javier%20FioramontiLa Martino Orquesta Típica
 
+### Laura Camacho Tango Project (formerly Athens Tango Project) (USA)
 
+The Laura Camacho Tango Project is an international tango ensemble led by Argentine-American bassist, composer, conductor, and ethnomusicologist Laura Camacho. 
+Founded in 2012 in Athens, Georgia, the ensemble performs traditional danceable Tango, nuevo Tango, and original works inspired by the Argentine tradition. 
+Originally named the Athens Tango Project the ensemble was renamed in 2025 following Laura's move to Austin, Texas.
+They performed at local milonga events and opened for Tanghetto at the Argentine Food and Wine festival in Atlanta.
+
+- https://lauracamachotangoproject.bandcamp.com/
+- https://www.athenstangoproject.com/
+- https://www.deezer.com/us/artist/351097112
+- https://music.apple.com/us/artist/laura-camacho-tango-project/1845750566
+- https://www.youtube.com/channel/UCI0FVgsNBqn0iweWg-s4hLw
+  
 ### Mandragora Tango Orchestra (USA)
 
 The "mandragora" is the mandrake root, which grows in Argentina. 
@@ -1090,14 +1102,6 @@ participa en importantes festivales como el “Ecunhi”, “Festival de Tango d
 ### Dúo Fuertes Varnerín
 
 - https://www.deezer.com/us/artist/5520525
-
-
-
-### Laura Camacho Tango Project (USA)
-
-- https://lauracamachotangoproject.bandcamp.com/
-- https://www.athenstangoproject.com/
-- https://www.deezer.com/us/artist/351097112
 
 
 ### Sexteto Mayor
