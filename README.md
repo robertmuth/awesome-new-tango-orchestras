@@ -986,6 +986,7 @@ estableciendo una firme ruptura con los estereotipos patriarcales.
 
 - https://lahogueratango.bandcamp.com/
 - https://www.facebook.com/lahogueratango2
+- https://www.deezer.com/us/artist/11647691
   
 ### Kantango
 
