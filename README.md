@@ -208,16 +208,6 @@ Witty song introductions emerged with the music, livening up already energetic p
 - https://open.spotify.com/artist/1WESGlIggKkTGIQO0Z7Jfh
 - https://cachivachetango.bandcamp.com/
 
-### Orquesta Típica Ciudad Baigón (Argentina)
-
-Agrupación musical y artística que recupera la tradición de la orquesta típica
-
-TODO: needs more info
-
-- https://www.youtube.com/c/CiudadBaigonOT
-- https://www.facebook.com/CiudadBaigon/
-- https://open.spotify.com/intl-es/artist/4AqPTqlGFbOZseQXCksv57
-- https://www.deezer.com/us/artist/516873
 
 ### Collectif Roulotte Tango (France)
 
@@ -923,7 +913,19 @@ music-style arrangements and features a unique instrumentation that includes cla
 ### Carlos Libedinsky
 
 - https://www.deezer.com/us/artist/156993
-  
+
+### Orquesta Típica Ciudad Baigón (Argentina)
+
+Agrupación musical y artística que recupera la tradición de la orquesta típica
+
+- https://www.youtube.com/c/CiudadBaigonOT
+- https://www.facebook.com/CiudadBaigon/
+- https://open.spotify.com/intl-es/artist/4AqPTqlGFbOZseQXCksv57
+- https://www.deezer.com/us/artist/516873
+- 
+### Orquesta los Crayones
+
+- https://www.deezer.com/us/artist/52953682
 ### Cuarteto Cedron
 
 - https://www.deezer.com/us/artist/337304
